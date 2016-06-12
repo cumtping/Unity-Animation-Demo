@@ -1,0 +1,2677 @@
+fileFormatVersion: 2
+guid: 15ccabb2381fc9746aa663d1042ce1f7
+timeCreated: 1465314052
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bear_click_0.png
+    21300002: bear_click_1.png
+    21300004: bear_click_10.png
+    21300006: bear_click_11.png
+    21300008: bear_click_12.png
+    21300010: bear_click_13.png
+    21300012: bear_click_14.png
+    21300014: bear_click_15.png
+    21300016: bear_click_16.png
+    21300018: bear_click_17.png
+    21300020: bear_click_18.png
+    21300022: bear_click_19.png
+    21300024: bear_click_2.png
+    21300026: bear_click_20.png
+    21300028: bear_click_21.png
+    21300030: bear_click_22.png
+    21300032: bear_click_23.png
+    21300034: bear_click_24.png
+    21300036: bear_click_25.png
+    21300038: bear_click_26.png
+    21300040: bear_click_27.png
+    21300042: bear_click_28.png
+    21300044: bear_click_29.png
+    21300046: bear_click_3.png
+    21300048: bear_click_4.png
+    21300050: bear_click_5.png
+    21300052: bear_click_6.png
+    21300054: bear_click_7.png
+    21300056: bear_click_8.png
+    21300058: bear_click_9.png
+    21300060: bear_column_0.png
+    21300062: bear_column_1.png
+    21300064: bear_column_10.png
+    21300066: bear_column_11.png
+    21300068: bear_column_12.png
+    21300070: bear_column_13.png
+    21300072: bear_column_14.png
+    21300074: bear_column_15.png
+    21300076: bear_column_16.png
+    21300078: bear_column_17.png
+    21300080: bear_column_18.png
+    21300082: bear_column_19.png
+    21300084: bear_column_2.png
+    21300086: bear_column_20.png
+    21300088: bear_column_21.png
+    21300090: bear_column_22.png
+    21300092: bear_column_23.png
+    21300094: bear_column_24.png
+    21300096: bear_column_25.png
+    21300098: bear_column_26.png
+    21300100: bear_column_27.png
+    21300102: bear_column_28.png
+    21300104: bear_column_29.png
+    21300106: bear_column_3.png
+    21300108: bear_column_4.png
+    21300110: bear_column_5.png
+    21300112: bear_column_6.png
+    21300114: bear_column_7.png
+    21300116: bear_column_8.png
+    21300118: bear_column_9.png
+    21300120: bear_line_0.png
+    21300122: bear_line_1.png
+    21300124: bear_line_10.png
+    21300126: bear_line_11.png
+    21300128: bear_line_12.png
+    21300130: bear_line_13.png
+    21300132: bear_line_14.png
+    21300134: bear_line_15.png
+    21300136: bear_line_16.png
+    21300138: bear_line_17.png
+    21300140: bear_line_18.png
+    21300142: bear_line_19.png
+    21300144: bear_line_2.png
+    21300146: bear_line_20.png
+    21300148: bear_line_21.png
+    21300150: bear_line_22.png
+    21300152: bear_line_23.png
+    21300154: bear_line_24.png
+    21300156: bear_line_25.png
+    21300158: bear_line_26.png
+    21300160: bear_line_27.png
+    21300162: bear_line_28.png
+    21300164: bear_line_29.png
+    21300166: bear_line_3.png
+    21300168: bear_line_4.png
+    21300170: bear_line_5.png
+    21300172: bear_line_6.png
+    21300174: bear_line_7.png
+    21300176: bear_line_8.png
+    21300178: bear_line_9.png
+    21300180: bear_wrap_0.png
+    21300182: bear_wrap_1.png
+    21300184: bear_wrap_10.png
+    21300186: bear_wrap_11.png
+    21300188: bear_wrap_12.png
+    21300190: bear_wrap_13.png
+    21300192: bear_wrap_14.png
+    21300194: bear_wrap_15.png
+    21300196: bear_wrap_16.png
+    21300198: bear_wrap_17.png
+    21300200: bear_wrap_18.png
+    21300202: bear_wrap_19.png
+    21300204: bear_wrap_2.png
+    21300206: bear_wrap_20.png
+    21300208: bear_wrap_21.png
+    21300210: bear_wrap_22.png
+    21300212: bear_wrap_23.png
+    21300214: bear_wrap_24.png
+    21300216: bear_wrap_25.png
+    21300218: bear_wrap_26.png
+    21300220: bear_wrap_27.png
+    21300222: bear_wrap_28.png
+    21300224: bear_wrap_29.png
+    21300226: bear_wrap_3.png
+    21300228: bear_wrap_30.png
+    21300230: bear_wrap_31.png
+    21300232: bear_wrap_32.png
+    21300234: bear_wrap_33.png
+    21300236: bear_wrap_34.png
+    21300238: bear_wrap_35.png
+    21300240: bear_wrap_36.png
+    21300242: bear_wrap_37.png
+    21300244: bear_wrap_38.png
+    21300246: bear_wrap_39.png
+    21300248: bear_wrap_4.png
+    21300250: bear_wrap_40.png
+    21300252: bear_wrap_41.png
+    21300254: bear_wrap_42.png
+    21300256: bear_wrap_43.png
+    21300258: bear_wrap_44.png
+    21300260: bear_wrap_45.png
+    21300262: bear_wrap_46.png
+    21300264: bear_wrap_47.png
+    21300266: bear_wrap_48.png
+    21300268: bear_wrap_5.png
+    21300270: bear_wrap_6.png
+    21300272: bear_wrap_7.png
+    21300274: bear_wrap_8.png
+    21300276: bear_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bear_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 997
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 997
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 951
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 951
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 905
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 997
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 951
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 997
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: bear_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -27, y: 21}
+        - {x: -27, y: -16}
+        - {x: -17, y: -25}
+        - {x: 27, y: -25}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -22}
+        - {x: -23, y: -25}
+        - {x: 20, y: -25}
+        - {x: 27, y: -17}
+        - {x: 27, y: 21}
+        - {x: 24, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 279
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 26}
+        - {x: -28, y: -25}
+        - {x: -27, y: -26}
+        - {x: 24, y: -26}
+        - {x: 28, y: -24}
+        - {x: 28, y: 26}
+      tessellationDetail: -1
+    - name: bear_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 546
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 25}
+        - {x: -28, y: -18}
+        - {x: -22, y: -25}
+        - {x: 20, y: -25}
+        - {x: 28, y: -17}
+        - {x: 28, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 25}
+        - {x: -28, y: 22}
+        - {x: -28, y: -17}
+        - {x: -20, y: -25}
+        - {x: 21, y: -25}
+        - {x: 28, y: -23}
+        - {x: 28, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 650
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -27, y: 21}
+        - {x: -27, y: -17}
+        - {x: -19, y: -25}
+        - {x: 21, y: -25}
+        - {x: 27, y: -19}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -27, y: 21}
+        - {x: -27, y: -16}
+        - {x: -17, y: -25}
+        - {x: 27, y: -25}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 650
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -17}
+        - {x: -20, y: -25}
+        - {x: 18, y: -25}
+        - {x: 27, y: -16}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 650
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -25}
+        - {x: 27, y: -25}
+        - {x: 27, y: 22}
+        - {x: 22, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 25}
+        - {x: -26, y: -17}
+        - {x: -18, y: -25}
+        - {x: 25, y: -25}
+        - {x: 26, y: -22}
+        - {x: 26, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -19}
+        - {x: -25, y: -24}
+        - {x: 19, y: -24}
+        - {x: 26, y: -20}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 546
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 25}
+        - {x: -28, y: -25}
+        - {x: 25, y: -25}
+        - {x: 28, y: -17}
+        - {x: 28, y: 23}
+        - {x: 25, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -23}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 24}
+        - {x: -26, y: -22}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+      tessellationDetail: -1
+    - name: bear_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 25}
+        - {x: -24, y: 25}
+        - {x: -27, y: 17}
+        - {x: -27, y: -23}
+        - {x: -21, y: -25}
+        - {x: 23, y: -25}
+        - {x: 26, y: -19}
+        - {x: 27, y: -16}
+        - {x: 27, y: 23}
+      tessellationDetail: -1
+    - name: bear_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -24}
+        - {x: -23, y: -25}
+        - {x: 21, y: -25}
+        - {x: 27, y: -19}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -27, y: 21}
+        - {x: -27, y: -16}
+        - {x: -17, y: -25}
+        - {x: 27, y: -25}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_29.png
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 598
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -27, y: 21}
+        - {x: -27, y: -16}
+        - {x: -17, y: -25}
+        - {x: 27, y: -25}
+        - {x: 27, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 26}
+        - {x: -28, y: 26}
+        - {x: -28, y: -21}
+        - {x: -20, y: -25}
+        - {x: -17, y: -26}
+        - {x: 18, y: -26}
+        - {x: 27, y: -23}
+        - {x: 28, y: -16}
+        - {x: 28, y: 25}
+      tessellationDetail: -1
+    - name: bear_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 27}
+        - {x: -29, y: -27}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+      tessellationDetail: -1
+    - name: bear_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 492
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -20.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 27.5, y: -15.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -14.5, y: -26.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 28.5, y: -16.5}
+        - {x: 28.5, y: 23.5}
+        - {x: 23.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -16.5}
+        - {x: -26.5, y: -20.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 27.5, y: -23.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -24.5}
+        - {x: -24.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -16.5}
+        - {x: -17.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 27.5, y: -20.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 25.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -26.5, y: -23.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 26.5, y: 23.5}
+        - {x: 24.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 702
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 26.5, y: -13.5}
+        - {x: 26.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 753
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 26.5, y: -16.5}
+        - {x: 26.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 753
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -18.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 26.5, y: 22.5}
+        - {x: 24.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 492
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -27.5, y: 21.5}
+        - {x: -27.5, y: -16.5}
+        - {x: -15.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 27.5, y: 23.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -19.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 26.5, y: -15.5}
+        - {x: 26.5, y: 20.5}
+        - {x: 22.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 702
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 24.5}
+        - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -16.5}
+        - {x: -18.5, y: -24.5}
+        - {x: 12.5, y: -24.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 26.5, y: -11.5}
+      tessellationDetail: -1
+    - name: bear_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_29.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -20.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 224
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -27.5, y: -21.5}
+        - {x: -26.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 27.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -21.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -20.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 24.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -24.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 753
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 26.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 25.5}
+        - {x: -27.5, y: 21.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 27.5, y: -20.5}
+        - {x: 27.5, y: 23.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -14.5}
+        - {x: -19.5, y: -23.5}
+        - {x: -15.5, y: -25.5}
+        - {x: 19.5, y: -25.5}
+        - {x: 27.5, y: -15.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 26.5}
+        - {x: -26.5, y: 26.5}
+        - {x: -28.5, y: 22.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -21.5, y: -25.5}
+        - {x: -16.5, y: -26.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 27.5, y: -21.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 28.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -21.5}
+        - {x: -21.5, y: -27.5}
+        - {x: 27.5, y: -27.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 169
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26.5}
+        - {x: -28.5, y: 24.5}
+        - {x: -28.5, y: -15.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -18.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -17.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 20.5, y: -25.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 27.5, y: 21.5}
+        - {x: 24.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -25.5, y: 23.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 492
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 224
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -25.5, y: 23.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 224
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 224
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -25.5, y: 23.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -23.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 333
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 26.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 27.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: 27.5}
+      tessellationDetail: -1
+    - name: bear_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 57
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 27.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 27.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 27.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 439
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -24.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 804
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 24.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 26.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 28.5, y: -26.5}
+        - {x: 28.5, y: 26.5}
+      tessellationDetail: -1
+    - name: bear_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 280
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -27.5, y: 24.5}
+        - {x: -27.5, y: -16.5}
+        - {x: -18.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 280
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -20.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+      tessellationDetail: -1
+    - name: bear_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 702
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 26.5, y: 24.5}
+      tessellationDetail: -1
+    - name: bear_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 856
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 23.5}
+        - {x: -25.5, y: -13.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 20.5, y: -23.5}
+        - {x: 25.5, y: -22.5}
+        - {x: 25.5, y: 23.5}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2631 @@
+fileFormatVersion: 2
+guid: 710acd2ba06b71b4da5fa601b49dfb7b
+timeCreated: 1465311861
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat_click_0.png
+    21300002: cat_click_1.png
+    21300004: cat_click_10.png
+    21300006: cat_click_11.png
+    21300008: cat_click_12.png
+    21300010: cat_click_13.png
+    21300012: cat_click_14.png
+    21300014: cat_click_15.png
+    21300016: cat_click_16.png
+    21300018: cat_click_17.png
+    21300020: cat_click_18.png
+    21300022: cat_click_19.png
+    21300024: cat_click_2.png
+    21300026: cat_click_20.png
+    21300028: cat_click_21.png
+    21300030: cat_click_22.png
+    21300032: cat_click_23.png
+    21300034: cat_click_24.png
+    21300036: cat_click_25.png
+    21300038: cat_click_26.png
+    21300040: cat_click_27.png
+    21300042: cat_click_28.png
+    21300044: cat_click_29.png
+    21300046: cat_click_3.png
+    21300048: cat_click_4.png
+    21300050: cat_click_5.png
+    21300052: cat_click_6.png
+    21300054: cat_click_7.png
+    21300056: cat_click_8.png
+    21300058: cat_click_9.png
+    21300060: cat_column_1.png
+    21300062: cat_column_10.png
+    21300064: cat_column_11.png
+    21300066: cat_column_15.png
+    21300068: cat_column_16.png
+    21300070: cat_column_17.png
+    21300072: cat_column_18.png
+    21300074: cat_column_19.png
+    21300076: cat_column_2.png
+    21300078: cat_column_20.png
+    21300080: cat_column_21.png
+    21300082: cat_column_22.png
+    21300084: cat_column_23.png
+    21300086: cat_column_24.png
+    21300088: cat_column_25.png
+    21300090: cat_column_26.png
+    21300092: cat_column_27.png
+    21300094: cat_column_4.png
+    21300096: cat_column_5.png
+    21300098: cat_column_6.png
+    21300100: cat_column_7.png
+    21300102: cat_column_8.png
+    21300104: cat_column_9.png
+    21300106: cat_line_0.png
+    21300108: cat_line_1.png
+    21300110: cat_line_10.png
+    21300112: cat_line_11.png
+    21300114: cat_line_12.png
+    21300116: cat_line_13.png
+    21300118: cat_line_14.png
+    21300120: cat_line_15.png
+    21300122: cat_line_16.png
+    21300124: cat_line_17.png
+    21300126: cat_line_18.png
+    21300128: cat_line_19.png
+    21300130: cat_line_20.png
+    21300132: cat_line_21.png
+    21300134: cat_line_22.png
+    21300136: cat_line_23.png
+    21300138: cat_line_24.png
+    21300140: cat_line_25.png
+    21300142: cat_line_26.png
+    21300144: cat_line_27.png
+    21300146: cat_line_28.png
+    21300148: cat_line_3.png
+    21300150: cat_line_4.png
+    21300152: cat_line_5.png
+    21300154: cat_line_6.png
+    21300156: cat_line_7.png
+    21300158: cat_line_8.png
+    21300160: cat_line_9.png
+    21300162: cat_wrap_0.png
+    21300164: cat_wrap_1.png
+    21300166: cat_wrap_10.png
+    21300168: cat_wrap_11.png
+    21300170: cat_wrap_12.png
+    21300172: cat_wrap_13.png
+    21300174: cat_wrap_14.png
+    21300176: cat_wrap_15.png
+    21300178: cat_wrap_16.png
+    21300180: cat_wrap_17.png
+    21300182: cat_wrap_18.png
+    21300184: cat_wrap_19.png
+    21300186: cat_wrap_2.png
+    21300188: cat_wrap_20.png
+    21300190: cat_wrap_21.png
+    21300192: cat_wrap_22.png
+    21300194: cat_wrap_23.png
+    21300196: cat_wrap_24.png
+    21300198: cat_wrap_25.png
+    21300200: cat_wrap_26.png
+    21300202: cat_wrap_28.png
+    21300204: cat_wrap_29.png
+    21300206: cat_wrap_3.png
+    21300208: cat_wrap_30.png
+    21300210: cat_wrap_31.png
+    21300212: cat_wrap_32.png
+    21300214: cat_wrap_33.png
+    21300216: cat_wrap_34.png
+    21300218: cat_wrap_35.png
+    21300220: cat_wrap_36.png
+    21300222: cat_wrap_37.png
+    21300224: cat_wrap_38.png
+    21300226: cat_wrap_39.png
+    21300228: cat_wrap_4.png
+    21300230: cat_wrap_40.png
+    21300232: cat_wrap_41.png
+    21300234: cat_wrap_42.png
+    21300236: cat_wrap_43.png
+    21300238: cat_wrap_44.png
+    21300240: cat_wrap_45.png
+    21300242: cat_wrap_46.png
+    21300244: cat_wrap_47.png
+    21300246: cat_wrap_48.png
+    21300248: cat_wrap_5.png
+    21300250: cat_wrap_6.png
+    21300252: cat_wrap_7.png
+    21300254: cat_wrap_8.png
+    21300256: cat_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cat_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 89
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 18}
+        - {x: -21.5, y: -18}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 18}
+      tessellationDetail: -1
+    - name: cat_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 18}
+        - {x: -21.5, y: -16}
+        - {x: -20.5, y: -18}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 18}
+      tessellationDetail: -1
+    - name: cat_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 18}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -20.5, y: 16}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+        - {x: 17.5, y: 12}
+        - {x: 17.5, y: 10}
+        - {x: 17.5, y: 12}
+        - {x: 18.5, y: 18}
+        - {x: 18.5, y: 19}
+        - {x: -21.5, y: 19}
+        - {x: -21.5, y: -18}
+        - {x: -19.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: -16}
+        - {x: 16.5, y: -13}
+        - {x: 17.5, y: -17}
+      tessellationDetail: -1
+    - name: cat_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 12}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 12}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 8}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 16}
+        - {x: 18.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 8}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 16}
+        - {x: 18.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+        - {x: 17.5, y: 12}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: -17}
+        - {x: 15.5, y: -9}
+        - {x: 17.5, y: -17}
+      tessellationDetail: -1
+    - name: cat_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+        - {x: 17.5, y: 12}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: -17}
+        - {x: 15.5, y: -9}
+        - {x: 17.5, y: -17}
+      tessellationDetail: -1
+    - name: cat_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 8}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 16}
+        - {x: 18.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 8}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 16}
+        - {x: 18.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 12}
+        - {x: 17.5, y: 19}
+        - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 15}
+      tessellationDetail: -1
+    - name: cat_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -14}
+        - {x: -20.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+      tessellationDetail: -1
+    - name: cat_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 89
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 18}
+        - {x: -21.5, y: -13}
+        - {x: -18.5, y: -16}
+        - {x: -14.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 21.5, y: -15}
+        - {x: 21.5, y: 18}
+      tessellationDetail: -1
+    - name: cat_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 18}
+        - {x: -21.5, y: -14}
+        - {x: -14.5, y: -18}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 18}
+      tessellationDetail: -1
+    - name: cat_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 89
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 22, y: -21}
+        - {x: 24, y: -17}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 501
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 501
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 435
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 483
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 125
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -19, y: -21}
+        - {x: 20, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 165
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -20}
+        - {x: -21, y: -21}
+        - {x: 23, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 20}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -24, y: 18}
+        - {x: -24, y: -20}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 22}
+        - {x: -25, y: 22}
+        - {x: -25, y: -17}
+        - {x: -23, y: -22}
+        - {x: 17, y: -22}
+        - {x: 20, y: -20}
+        - {x: 25, y: -13}
+      tessellationDetail: -1
+    - name: cat_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 49
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 19}
+        - {x: 22, y: 20}
+      tessellationDetail: -1
+    - name: cat_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -24, y: 17}
+        - {x: -24, y: -21}
+        - {x: 22, y: -21}
+        - {x: 24, y: -19}
+        - {x: 24, y: 17}
+        - {x: 20, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -16}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -15}
+        - {x: -18, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 533
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 25, y: -18}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 417
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 19, y: -21}
+        - {x: 25, y: -14}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -15}
+        - {x: -18, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -22}
+        - {x: 24, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 545
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -24, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 419
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -16}
+        - {x: -17, y: -21}
+        - {x: 16, y: -21}
+        - {x: 18, y: -20}
+        - {x: 25, y: -14}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 417
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 19, y: -21}
+        - {x: 25, y: -14}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 23, y: -21}
+        - {x: 25, y: -14}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -15}
+        - {x: -17, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -17}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -19}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -20}
+        - {x: -23, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 173
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -16}
+        - {x: -20, y: -21}
+        - {x: 23, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 209
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 22, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 459
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 23, y: -21}
+        - {x: 25, y: -19}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 417
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 19, y: -21}
+        - {x: 25, y: -14}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -18}
+        - {x: -21, y: -22}
+        - {x: 20, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 20, y: -21}
+        - {x: 24, y: -16}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -20}
+        - {x: -20, y: -21}
+        - {x: 23, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -22, y: -21}
+        - {x: 19, y: -21}
+        - {x: 24, y: -16}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -22, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -23, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 167
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -19}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 24, y: -19}
+        - {x: 24, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -18}
+        - {x: -22, y: -20}
+        - {x: 20, y: -20}
+        - {x: 23, y: -19}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -22, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 293
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 333
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 333
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -15}
+        - {x: -21, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -19}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 459
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -16}
+        - {x: -20, y: -21}
+        - {x: 19, y: -21}
+        - {x: 25, y: -17}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -16}
+        - {x: -18, y: -22}
+        - {x: 17, y: -22}
+        - {x: 24, y: -21}
+        - {x: 25, y: -20}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 589
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 25, y: -21}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: cat_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 21, y: -22}
+        - {x: 25, y: -16}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -14}
+        - {x: -16, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -20}
+        - {x: -20, y: -21}
+        - {x: 23, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -22, y: -21}
+        - {x: 19, y: -21}
+        - {x: 24, y: -16}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -22, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -23, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 167
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -19}
+        - {x: -21, y: -20}
+        - {x: 23, y: -20}
+        - {x: 24, y: -19}
+        - {x: 24, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -18}
+        - {x: -22, y: -20}
+        - {x: 20, y: -20}
+        - {x: 23, y: -19}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 299
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 299
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 335
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 21, y: -22}
+        - {x: 25, y: -16}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -21}
+        - {x: -23, y: -22}
+        - {x: 18, y: -22}
+        - {x: 25, y: -20}
+        - {x: 25, y: 21}
+        - {x: 24, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 461
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -14}
+        - {x: -17, y: -21}
+        - {x: 22, y: -21}
+        - {x: 25, y: -17}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 375
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -16}
+        - {x: -21, y: -21}
+        - {x: 20, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 375
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -16}
+        - {x: -14, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 341
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -20}
+        - {x: -21, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 377
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: 23, y: -20}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: cat_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 417
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -15}
+        - {x: -21, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -18}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 503
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -14}
+        - {x: -17, y: -21}
+        - {x: 22, y: -21}
+        - {x: 25, y: -17}
+        - {x: 25, y: 21}
+      tessellationDetail: -1
+    - name: cat_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -25, y: 21}
+        - {x: -25, y: -14}
+        - {x: -22, y: -17}
+        - {x: -18, y: -22}
+        - {x: 18, y: -22}
+        - {x: 25, y: -20}
+        - {x: 25, y: 21}
+        - {x: 24, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 633
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -25, y: -20}
+        - {x: -23, y: -22}
+        - {x: 21, y: -22}
+        - {x: 25, y: -16}
+        - {x: 25, y: 22}
+      tessellationDetail: -1
+    - name: cat_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 299
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -18}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 24, y: -15}
+        - {x: 24, y: 21}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

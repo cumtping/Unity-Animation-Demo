@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: e8e4848bd7fe1494f899c9ab357dd931
+timeCreated: 1465315094
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: destroy_effect_0.png
+    21300002: destroy_effect_1.png
+    21300004: destroy_effect_10.png
+    21300006: destroy_effect_11.png
+    21300008: destroy_effect_12.png
+    21300010: destroy_effect_13.png
+    21300012: destroy_effect_14.png
+    21300014: destroy_effect_15.png
+    21300016: destroy_effect_16.png
+    21300018: destroy_effect_17.png
+    21300020: destroy_effect_18.png
+    21300022: destroy_effect_19.png
+    21300024: destroy_effect_2.png
+    21300026: destroy_effect_20.png
+    21300028: destroy_effect_3.png
+    21300030: destroy_effect_4.png
+    21300032: destroy_effect_5.png
+    21300034: destroy_effect_6.png
+    21300036: destroy_effect_7.png
+    21300038: destroy_effect_8.png
+    21300040: destroy_effect_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: destroy_effect_0.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: destroy_effect_1.png
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 184
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: destroy_effect_10.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 174
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -9}
+        - {x: -11, y: -13}
+        - {x: -11, y: -16}
+        - {x: -8, y: -18}
+        - {x: -4, y: -18}
+        - {x: -1, y: -17}
+        - {x: -1, y: -13}
+        - {x: -2, y: -9}
+      - - {x: 1, y: -14}
+        - {x: 3, y: -16}
+        - {x: 6, y: -15}
+        - {x: 6, y: -12}
+        - {x: 4, y: -10}
+        - {x: 1, y: -11}
+      - - {x: 14, y: -16}
+        - {x: 18, y: -16}
+        - {x: 19, y: -15}
+        - {x: 19, y: -11}
+        - {x: 18, y: -9}
+        - {x: 15, y: -9}
+        - {x: 13, y: -10}
+        - {x: 13, y: -14}
+      - - {x: -20, y: 4}
+        - {x: -23, y: 3}
+        - {x: -23, y: -6}
+        - {x: -19, y: -11}
+        - {x: -12, y: -11}
+        - {x: -9, y: -10}
+        - {x: -9, y: -2}
+        - {x: -15, y: 4}
+      - - {x: -2, y: -2}
+        - {x: -5, y: -3}
+        - {x: -5, y: -8}
+        - {x: -3, y: -9}
+        - {x: 1, y: -9}
+        - {x: 2, y: -6}
+        - {x: 2, y: -5}
+        - {x: 1, y: -2}
+      - - {x: 4, y: 15}
+        - {x: 1, y: 14}
+        - {x: 1, y: 4}
+        - {x: 9, y: -4}
+        - {x: 15, y: -6}
+        - {x: 23, y: -6}
+        - {x: 23, y: 8}
+        - {x: 16, y: 15}
+      - - {x: -8, y: 18}
+        - {x: -12, y: 11}
+        - {x: -12, y: 6}
+        - {x: -9, y: 4}
+        - {x: -5, y: 4}
+        - {x: 1, y: 8}
+        - {x: 1, y: 16}
+        - {x: 0, y: 18}
+      tessellationDetail: -1
+    - name: destroy_effect_11.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -11}
+        - {x: -12, y: -18}
+        - {x: -3, y: -18}
+        - {x: -3, y: -14}
+        - {x: -4, y: -11}
+      - - {x: 2, y: -10}
+        - {x: 0, y: -11}
+        - {x: 0, y: -18}
+        - {x: 7, y: -18}
+        - {x: 8, y: -16}
+        - {x: 8, y: -13}
+        - {x: 7, y: -10}
+      - - {x: 14, y: -9}
+        - {x: 14, y: -18}
+        - {x: 23, y: -18}
+        - {x: 23, y: -9}
+      - - {x: -24, y: 4}
+        - {x: -24, y: -7}
+        - {x: -23, y: -9}
+        - {x: -19, y: -11}
+        - {x: -15, y: -11}
+        - {x: -12, y: -9}
+        - {x: -12, y: -3}
+        - {x: -17, y: 4}
+      - - {x: -2, y: -2}
+        - {x: -5, y: -2}
+        - {x: -6, y: -4}
+        - {x: -6, y: -7}
+        - {x: -4, y: -9}
+        - {x: -1, y: -9}
+        - {x: 1, y: -7}
+        - {x: 1, y: -3}
+      - - {x: 2, y: 17}
+        - {x: 2, y: 11}
+        - {x: 5, y: 8}
+        - {x: 17, y: -5}
+        - {x: 23, y: -5}
+        - {x: 24, y: -4}
+        - {x: 24, y: 13}
+        - {x: 14, y: 17}
+      - - {x: -10, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: 9}
+        - {x: -12, y: 8}
+        - {x: -6, y: 8}
+        - {x: 0, y: 12}
+        - {x: 0, y: 18}
+      tessellationDetail: -1
+    - name: destroy_effect_12.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -13}
+        - {x: -2, y: -17}
+        - {x: -2, y: -19}
+        - {x: -1, y: -20}
+        - {x: 6, y: -20}
+        - {x: 7, y: -19}
+        - {x: 7, y: -15}
+        - {x: 5, y: -13}
+      - - {x: -12, y: -11}
+        - {x: -14, y: -14}
+        - {x: -14, y: -20}
+        - {x: -7, y: -20}
+        - {x: -5, y: -19}
+        - {x: -5, y: -14}
+        - {x: -9, y: -11}
+      - - {x: 17, y: -10}
+        - {x: 14, y: -13}
+        - {x: 14, y: -16}
+        - {x: 17, y: -19}
+        - {x: 19, y: -19}
+        - {x: 22, y: -16}
+        - {x: 22, y: -12}
+        - {x: 20, y: -10}
+      - - {x: -24, y: 3}
+        - {x: -24, y: -7}
+        - {x: -21, y: -11}
+        - {x: -15, y: -11}
+        - {x: -14, y: -9}
+        - {x: -14, y: -1}
+        - {x: -17, y: 3}
+      - - {x: -7, y: -3}
+        - {x: -9, y: -7}
+        - {x: -9, y: -9}
+        - {x: -6, y: -11}
+        - {x: -3, y: -11}
+        - {x: -1, y: -9}
+        - {x: -1, y: -6}
+        - {x: -4, y: -3}
+      - - {x: 21, y: -3}
+        - {x: 24, y: -2}
+        - {x: 24, y: 1}
+        - {x: 21, y: 2}
+        - {x: 19, y: 0}
+      - - {x: 15, y: 10}
+        - {x: 15, y: 3}
+        - {x: 18, y: 2}
+        - {x: 23, y: 2}
+        - {x: 23, y: 10}
+      - - {x: -2, y: 20}
+        - {x: -17, y: 20}
+        - {x: -18, y: 15}
+        - {x: -18, y: 9}
+        - {x: -15, y: 8}
+        - {x: -5, y: 8}
+        - {x: -3, y: 9}
+        - {x: -1, y: 15}
+        - {x: -1, y: 19}
+      - - {x: 3, y: 18}
+        - {x: 2, y: 17}
+        - {x: 2, y: 13}
+        - {x: 4, y: 9}
+        - {x: 15, y: 9}
+        - {x: 18, y: 12}
+        - {x: 17, y: 18}
+      tessellationDetail: -1
+    - name: destroy_effect_13.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -14}
+        - {x: -1, y: -16}
+        - {x: -1, y: -20}
+        - {x: 0, y: -21}
+        - {x: 6, y: -21}
+        - {x: 7, y: -20}
+        - {x: 7, y: -16}
+        - {x: 5, y: -14}
+      - - {x: -14, y: -16}
+        - {x: -10, y: -19}
+        - {x: -7, y: -18}
+        - {x: -6, y: -13}
+        - {x: -11, y: -10}
+        - {x: -14, y: -13}
+      - - {x: 15, y: -9}
+        - {x: 15, y: -17}
+        - {x: 22, y: -17}
+        - {x: 23, y: -16}
+        - {x: 23, y: -11}
+        - {x: 22, y: -9}
+      - - {x: -21, y: 5}
+        - {x: -25, y: 5}
+        - {x: -25, y: -5}
+        - {x: -24, y: -8}
+        - {x: -22, y: -9}
+        - {x: -16, y: -9}
+        - {x: -15, y: -6}
+        - {x: -15, y: 0}
+        - {x: -16, y: 4}
+      - - {x: -7, y: -3}
+        - {x: -9, y: -5}
+        - {x: -9, y: -7}
+        - {x: -7, y: -9}
+        - {x: -5, y: -9}
+        - {x: -3, y: -7}
+        - {x: -3, y: -5}
+        - {x: -5, y: -3}
+      - - {x: 18, y: 3}
+        - {x: 18, y: 1}
+        - {x: 21, y: -2}
+        - {x: 24, y: -2}
+        - {x: 25, y: -1}
+        - {x: 25, y: 3}
+        - {x: 23, y: 5}
+      - - {x: 16, y: 5}
+        - {x: 23, y: 5}
+        - {x: 23, y: 12}
+        - {x: 17, y: 12}
+        - {x: 16, y: 10}
+      - - {x: -17, y: 20}
+        - {x: -18, y: 17}
+        - {x: -18, y: 13}
+        - {x: -16, y: 11}
+        - {x: -13, y: 11}
+        - {x: -9, y: 14}
+        - {x: -9, y: 19}
+        - {x: -11, y: 20}
+      - - {x: 13, y: 19}
+        - {x: 11, y: 17}
+        - {x: 11, y: 15}
+        - {x: 13, y: 13}
+        - {x: 15, y: 13}
+        - {x: 17, y: 15}
+        - {x: 17, y: 17}
+        - {x: 15, y: 19}
+      - - {x: 5, y: 21}
+        - {x: 3, y: 17}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 11, y: 17}
+        - {x: 11, y: 19}
+        - {x: 10, y: 21}
+      - - {x: -9, y: 21}
+        - {x: -9, y: 15}
+        - {x: -2, y: 15}
+        - {x: -2, y: 21}
+      tessellationDetail: -1
+    - name: destroy_effect_14.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -15}
+        - {x: -1, y: -17}
+        - {x: -1, y: -21}
+        - {x: 1, y: -22}
+        - {x: 5, y: -22}
+        - {x: 7, y: -20}
+        - {x: 7, y: -18}
+        - {x: 4, y: -15}
+      - - {x: -14, y: -16}
+        - {x: -13, y: -18}
+        - {x: -10, y: -18}
+        - {x: -8, y: -17}
+        - {x: -8, y: -14}
+        - {x: -9, y: -12}
+        - {x: -11, y: -12}
+        - {x: -14, y: -14}
+      - - {x: 16, y: -17}
+        - {x: 23, y: -17}
+        - {x: 23, y: -10}
+        - {x: 16, y: -10}
+      - - {x: -9, y: -2}
+        - {x: -13, y: -6}
+        - {x: -13, y: -11}
+        - {x: -9, y: -12}
+        - {x: -4, y: -12}
+        - {x: -3, y: -9}
+        - {x: -3, y: -5}
+        - {x: -6, y: -2}
+      - - {x: -22, y: -2}
+        - {x: -23, y: -3}
+        - {x: -23, y: -9}
+        - {x: -19, y: -9}
+        - {x: -17, y: -8}
+        - {x: -17, y: -4}
+        - {x: -19, y: -2}
+      - - {x: -25, y: 0}
+        - {x: -23, y: -2}
+        - {x: -20, y: -1}
+        - {x: -20, y: 2}
+        - {x: -22, y: 4}
+        - {x: -25, y: 3}
+      - - {x: 20, y: 2}
+        - {x: 20, y: 0}
+        - {x: 22, y: -2}
+        - {x: 25, y: -2}
+        - {x: 25, y: 4}
+        - {x: 22, y: 4}
+      - - {x: 20, y: 6}
+        - {x: 23, y: 7}
+        - {x: 23, y: 10}
+        - {x: 20, y: 11}
+        - {x: 18, y: 9}
+      - - {x: -17, y: 12}
+        - {x: -10, y: 12}
+        - {x: -10, y: 20}
+        - {x: -18, y: 20}
+        - {x: -18, y: 14}
+      - - {x: 5, y: 22}
+        - {x: 5, y: 20}
+        - {x: 6, y: 16}
+        - {x: 13, y: 13}
+        - {x: 17, y: 13}
+        - {x: 19, y: 15}
+        - {x: 19, y: 19}
+        - {x: 18, y: 22}
+      - - {x: -7, y: 17}
+        - {x: -4, y: 18}
+        - {x: -4, y: 21}
+        - {x: -7, y: 22}
+        - {x: -9, y: 20}
+      tessellationDetail: -1
+    - name: destroy_effect_15.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -14, y: -7}
+        - {x: -14, y: -20}
+        - {x: -9, y: -20}
+        - {x: -6, y: -19}
+        - {x: -4, y: -16}
+        - {x: -4, y: -8}
+        - {x: -5, y: -5}
+      - - {x: 18, y: -16}
+        - {x: 20, y: -18}
+        - {x: 23, y: -17}
+        - {x: 23, y: -14}
+        - {x: 21, y: -12}
+        - {x: 18, y: -13}
+      - - {x: -25, y: -8}
+        - {x: -20, y: -12}
+        - {x: -15, y: -10}
+        - {x: -15, y: -2}
+        - {x: -19, y: 4}
+        - {x: -23, y: 4}
+        - {x: -25, y: 3}
+      - - {x: 20, y: 11}
+        - {x: 19, y: 9}
+        - {x: 19, y: 6}
+        - {x: 21, y: 5}
+        - {x: 25, y: 5}
+        - {x: 25, y: 11}
+      - - {x: -12, y: 19}
+        - {x: -16, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: 13}
+        - {x: -15, y: 12}
+        - {x: -11, y: 12}
+        - {x: -10, y: 14}
+        - {x: -10, y: 18}
+      - - {x: 14, y: 18}
+        - {x: 14, y: 16}
+        - {x: 16, y: 14}
+        - {x: 17, y: 14}
+        - {x: 20, y: 17}
+        - {x: 19, y: 20}
+        - {x: 16, y: 20}
+      - - {x: -9, y: 23}
+        - {x: -10, y: 20}
+        - {x: -10, y: 19}
+        - {x: -9, y: 16}
+        - {x: -4, y: 16}
+        - {x: -2, y: 17}
+        - {x: -2, y: 23}
+      - - {x: 6, y: 23}
+        - {x: 6, y: 17}
+        - {x: 13, y: 17}
+        - {x: 13, y: 22}
+        - {x: 12, y: 23}
+      tessellationDetail: -1
+    - name: destroy_effect_16.png
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 118
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -18}
+        - {x: 1, y: -20}
+        - {x: 1, y: -23}
+        - {x: 2, y: -24}
+        - {x: 8, y: -24}
+        - {x: 8, y: -21}
+        - {x: 7, y: -18}
+      - - {x: -15, y: -9}
+        - {x: -15, y: -22}
+        - {x: -5, y: -22}
+        - {x: -5, y: -8}
+        - {x: -10, y: -7}
+      - - {x: 17, y: -19}
+        - {x: 19, y: -20}
+        - {x: 25, y: -20}
+        - {x: 25, y: -13}
+        - {x: 18, y: -13}
+        - {x: 17, y: -16}
+      - - {x: -24, y: -4}
+        - {x: -25, y: -8}
+        - {x: -25, y: -12}
+        - {x: -22, y: -13}
+        - {x: -19, y: -13}
+        - {x: -17, y: -12}
+        - {x: -16, y: -8}
+        - {x: -20, y: -4}
+      - - {x: -24, y: 2}
+        - {x: -25, y: 1}
+        - {x: -25, y: -3}
+        - {x: -24, y: -4}
+        - {x: -20, y: -4}
+        - {x: -19, y: -2}
+        - {x: -19, y: 1}
+        - {x: -21, y: 2}
+      - - {x: -9, y: 23}
+        - {x: -10, y: 20}
+        - {x: -10, y: 19}
+        - {x: -9, y: 16}
+        - {x: -4, y: 16}
+        - {x: -3, y: 17}
+        - {x: -3, y: 22}
+        - {x: -5, y: 23}
+      - - {x: 9, y: 24}
+        - {x: 7, y: 22}
+        - {x: 7, y: 20}
+        - {x: 10, y: 17}
+        - {x: 11, y: 17}
+        - {x: 14, y: 20}
+        - {x: 14, y: 21}
+        - {x: 11, y: 24}
+      tessellationDetail: -1
+    - name: destroy_effect_17.png
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 118
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -18}
+        - {x: 1, y: -19}
+        - {x: 1, y: -23}
+        - {x: 2, y: -24}
+        - {x: 7, y: -24}
+        - {x: 7, y: -18}
+      - - {x: -14, y: -15}
+        - {x: -15, y: -17}
+        - {x: -15, y: -20}
+        - {x: -13, y: -21}
+        - {x: -10, y: -21}
+        - {x: -9, y: -20}
+        - {x: -9, y: -15}
+      - - {x: 19, y: -13}
+        - {x: 18, y: -15}
+        - {x: 18, y: -19}
+        - {x: 21, y: -20}
+        - {x: 22, y: -20}
+        - {x: 25, y: -19}
+        - {x: 25, y: -14}
+        - {x: 24, y: -13}
+      - - {x: -12, y: -8}
+        - {x: -14, y: -10}
+        - {x: -14, y: -13}
+        - {x: -12, y: -15}
+        - {x: -9, y: -15}
+        - {x: -7, y: -13}
+        - {x: -7, y: -10}
+        - {x: -9, y: -8}
+      - - {x: -24, y: -5}
+        - {x: -25, y: -6}
+        - {x: -25, y: -11}
+        - {x: -21, y: -11}
+        - {x: -19, y: -10}
+        - {x: -19, y: -7}
+        - {x: -21, y: -5}
+      - - {x: -17, y: 20}
+        - {x: -18, y: 18}
+        - {x: -18, y: 16}
+        - {x: -17, y: 13}
+        - {x: -13, y: 13}
+        - {x: -11, y: 14}
+        - {x: -11, y: 20}
+      tessellationDetail: -1
+    - name: destroy_effect_18.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -17}
+        - {x: -2, y: -19}
+        - {x: -2, y: -21}
+        - {x: -1, y: -22}
+        - {x: 3, y: -22}
+        - {x: 4, y: -21}
+        - {x: 4, y: -19}
+        - {x: 2, y: -17}
+      - - {x: -16, y: -13}
+        - {x: -13, y: -12}
+        - {x: -13, y: -9}
+        - {x: -16, y: -8}
+        - {x: -18, y: -10}
+      - - {x: -20, y: 16}
+        - {x: -16, y: 16}
+        - {x: -15, y: 17}
+        - {x: -15, y: 20}
+        - {x: -16, y: 22}
+        - {x: -20, y: 22}
+      tessellationDetail: -1
+    - name: destroy_effect_19.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: destroy_effect_2.png
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -16, y: 7}
+        - {x: -16, y: -10}
+        - {x: -8, y: -17}
+        - {x: 8, y: -17}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 10}
+        - {x: 11, y: 17}
+      tessellationDetail: -1
+    - name: destroy_effect_20.png
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 114
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: destroy_effect_3.png
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -17, y: 19}
+        - {x: -21, y: 11}
+        - {x: -21, y: -7}
+        - {x: -17, y: -18}
+        - {x: -13, y: -21}
+        - {x: 10, y: -21}
+        - {x: 21, y: -15}
+        - {x: 21, y: 10}
+        - {x: 12, y: 21}
+      tessellationDetail: -1
+    - name: destroy_effect_4.png
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 64
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -22}
+        - {x: -14, y: -26}
+        - {x: 26, y: -26}
+        - {x: 26, y: 26}
+      tessellationDetail: -1
+    - name: destroy_effect_5.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -27, y: 15}
+        - {x: -27, y: -18}
+        - {x: -21, y: -28}
+        - {x: 22, y: -28}
+        - {x: 27, y: -20}
+        - {x: 27, y: 18}
+        - {x: 15, y: 28}
+      tessellationDetail: -1
+    - name: destroy_effect_6.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28}
+        - {x: -28, y: -18}
+        - {x: -25, y: -28}
+        - {x: 25, y: -28}
+        - {x: 28, y: -19}
+        - {x: 28, y: 28}
+      tessellationDetail: -1
+    - name: destroy_effect_7.png
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: 26}
+        - {x: 27, y: 28}
+      tessellationDetail: -1
+    - name: destroy_effect_8.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -16}
+        - {x: -7, y: -16}
+        - {x: -8, y: -20}
+        - {x: -8, y: -28}
+        - {x: 7, y: -28}
+        - {x: 8, y: -27}
+        - {x: 8, y: -19}
+      - - {x: -10, y: -9}
+        - {x: -19, y: -9}
+        - {x: -24, y: -11}
+        - {x: -24, y: -20}
+        - {x: -21, y: -24}
+        - {x: -18, y: -25}
+        - {x: -12, y: -25}
+        - {x: -9, y: -23}
+        - {x: -8, y: -16}
+        - {x: -8, y: -11}
+      - - {x: 14, y: -9}
+        - {x: 9, y: -13}
+        - {x: 9, y: -21}
+        - {x: 10, y: -25}
+        - {x: 21, y: -25}
+        - {x: 25, y: -24}
+        - {x: 25, y: -15}
+        - {x: 20, y: -9}
+      - - {x: -15, y: 8}
+        - {x: -25, y: 8}
+        - {x: -28, y: 7}
+        - {x: -28, y: -9}
+        - {x: -27, y: -10}
+        - {x: -22, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -11}
+        - {x: 11, y: -9}
+        - {x: 11, y: -5}
+        - {x: 9, y: -1}
+      - - {x: -10, y: 12}
+        - {x: -10, y: 3}
+        - {x: -7, y: -2}
+        - {x: 20, y: -9}
+        - {x: 28, y: -9}
+        - {x: 28, y: 11}
+        - {x: 21, y: 12}
+      - - {x: -20, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: 12}
+        - {x: -19, y: 8}
+        - {x: -10, y: 8}
+        - {x: -8, y: 12}
+        - {x: -8, y: 22}
+        - {x: -13, y: 24}
+      - - {x: 14, y: 24}
+        - {x: 9, y: 22}
+        - {x: 9, y: 11}
+        - {x: 14, y: 8}
+        - {x: 21, y: 8}
+        - {x: 25, y: 12}
+        - {x: 25, y: 20}
+        - {x: 22, y: 24}
+      - - {x: -7, y: 28}
+        - {x: -7, y: 17}
+        - {x: -5, y: 15}
+        - {x: 6, y: 15}
+        - {x: 9, y: 18}
+        - {x: 9, y: 24}
+        - {x: 8, y: 28}
+      tessellationDetail: -1
+    - name: destroy_effect_9.png
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -24}
+        - {x: -5, y: -28}
+        - {x: 5, y: -28}
+        - {x: 5, y: -24}
+        - {x: 2, y: -21}
+        - {x: -2, y: -21}
+      - - {x: 17, y: -13}
+        - {x: 13, y: -17}
+        - {x: 13, y: -21}
+        - {x: 16, y: -24}
+        - {x: 20, y: -24}
+        - {x: 23, y: -23}
+        - {x: 23, y: -17}
+        - {x: 21, y: -13}
+      - - {x: -19, y: -13}
+        - {x: -23, y: -14}
+        - {x: -23, y: -19}
+        - {x: -20, y: -23}
+        - {x: -14, y: -23}
+        - {x: -12, y: -19}
+        - {x: -12, y: -15}
+        - {x: -14, y: -13}
+      - - {x: -10, y: -10}
+        - {x: -9, y: -13}
+        - {x: -6, y: -13}
+        - {x: -4, y: -11}
+        - {x: -5, y: -8}
+        - {x: -8, y: -8}
+      - - {x: -1, y: -6}
+        - {x: -3, y: -8}
+        - {x: -3, y: -11}
+        - {x: -1, y: -13}
+        - {x: 1, y: -13}
+        - {x: 4, y: -10}
+        - {x: 4, y: -9}
+        - {x: 1, y: -6}
+      - - {x: 9, y: -5}
+        - {x: 6, y: -7}
+        - {x: 6, y: -11}
+        - {x: 7, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: -8}
+        - {x: 13, y: -5}
+      - - {x: -19, y: 5}
+        - {x: -26, y: 5}
+        - {x: -28, y: 4}
+        - {x: -28, y: -6}
+        - {x: -14, y: -7}
+        - {x: -13, y: -7}
+        - {x: -11, y: -5}
+        - {x: -11, y: -3}
+        - {x: -16, y: 4}
+      - - {x: -4, y: -6}
+        - {x: -1, y: -5}
+        - {x: -1, y: -2}
+        - {x: -4, y: -1}
+        - {x: -6, y: -3}
+      - - {x: 21, y: 2}
+        - {x: 20, y: -2}
+        - {x: 24, y: -6}
+        - {x: 27, y: -6}
+        - {x: 28, y: -5}
+        - {x: 28, y: 4}
+        - {x: 23, y: 4}
+      - - {x: 0, y: 11}
+        - {x: 0, y: 6}
+        - {x: 12, y: -5}
+        - {x: 20, y: -5}
+        - {x: 20, y: 4}
+        - {x: 12, y: 15}
+        - {x: 6, y: 15}
+        - {x: 1, y: 13}
+      - - {x: -10, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: 3}
+        - {x: -5, y: 3}
+        - {x: -2, y: 7}
+        - {x: -2, y: 14}
+      - - {x: -22, y: 14}
+        - {x: -20, y: 12}
+        - {x: -16, y: 12}
+        - {x: -12, y: 14}
+        - {x: -12, y: 20}
+        - {x: -13, y: 23}
+        - {x: -18, y: 23}
+        - {x: -22, y: 20}
+      - - {x: 13, y: 15}
+        - {x: 15, y: 12}
+        - {x: 21, y: 12}
+        - {x: 24, y: 13}
+        - {x: 24, y: 18}
+        - {x: 23, y: 22}
+        - {x: 15, y: 22}
+        - {x: 13, y: 21}
+      - - {x: -4, y: 20}
+        - {x: -3, y: 19}
+        - {x: 3, y: 19}
+        - {x: 6, y: 20}
+        - {x: 6, y: 26}
+        - {x: 5, y: 28}
+        - {x: -4, y: 28}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: ec67222e1adc5af428c2175f41794a4e
+timeCreated: 1465714457
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile_select_0000.png
+    21300002: tile_select_0001.png
+    21300004: tile_select_0002.png
+    21300006: tile_select_0003.png
+    21300008: tile_select_0004.png
+    21300010: tile_select_0005.png
+    21300012: tile_select_0006.png
+    21300014: tile_select_0007.png
+    21300016: tile_select_0008.png
+    21300018: tile_select_0009.png
+    21300020: tile_select_0010.png
+    21300022: tile_select_0011.png
+    21300024: tile_select_0012.png
+    21300026: tile_select_0013.png
+    21300028: tile_select_0014.png
+    21300030: tile_select_0015.png
+    21300032: tile_select_0016.png
+    21300034: tile_select_0017.png
+    21300036: tile_select_0018.png
+    21300038: tile_select_0019.png
+    21300040: tile_select_0020.png
+    21300042: tile_select_0021.png
+    21300044: tile_select_0022.png
+    21300046: tile_select_0023.png
+    21300048: tile_select_0024.png
+    21300050: tile_select_0025.png
+    21300052: tile_select_0026.png
+    21300054: tile_select_0027.png
+    21300056: tile_select_0028.png
+    21300058: tile_select_0029.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tile_select_0000.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -17, y: 18}
+        - {x: 17, y: 18}
+        - {x: 17, y: -17}
+        - {x: -18, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0001.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -18, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0002.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0003.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0004.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0005.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0006.png
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -16, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0007.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -16, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0008.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0009.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 24}
+        - {x: -22, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 22}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0010.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0011.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0012.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0013.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0014.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0015.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0016.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0017.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -23, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 16, y: 17}
+        - {x: 16, y: -16}
+        - {x: -17, y: -16}
+      tessellationDetail: -1
+    - name: tile_select_0018.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0019.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0020.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 24}
+        - {x: -22, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 22}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0021.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: -22}
+        - {x: -22, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0022.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -16, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0023.png
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -16, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0024.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0025.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0026.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0027.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -18, y: 17}
+        - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0028.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -17, y: 18}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+        - {x: -18, y: -17}
+      tessellationDetail: -1
+    - name: tile_select_0029.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      - - {x: -17, y: 18}
+        - {x: 17, y: 18}
+        - {x: 17, y: -17}
+        - {x: -18, y: -17}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

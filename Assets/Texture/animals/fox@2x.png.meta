@@ -1,0 +1,2904 @@
+fileFormatVersion: 2
+guid: d05f0309257ca154995349ca396c8153
+timeCreated: 1465314080
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fox_click_0.png
+    21300002: fox_click_1.png
+    21300004: fox_click_10.png
+    21300006: fox_click_11.png
+    21300008: fox_click_12.png
+    21300010: fox_click_13.png
+    21300012: fox_click_14.png
+    21300014: fox_click_15.png
+    21300016: fox_click_16.png
+    21300018: fox_click_17.png
+    21300020: fox_click_18.png
+    21300022: fox_click_19.png
+    21300024: fox_click_2.png
+    21300026: fox_click_20.png
+    21300028: fox_click_21.png
+    21300030: fox_click_22.png
+    21300032: fox_click_23.png
+    21300034: fox_click_24.png
+    21300036: fox_click_25.png
+    21300038: fox_click_26.png
+    21300040: fox_click_27.png
+    21300042: fox_click_28.png
+    21300044: fox_click_29.png
+    21300046: fox_click_3.png
+    21300048: fox_click_4.png
+    21300050: fox_click_5.png
+    21300052: fox_click_6.png
+    21300054: fox_click_7.png
+    21300056: fox_click_8.png
+    21300058: fox_click_9.png
+    21300060: fox_column_0.png
+    21300062: fox_column_1.png
+    21300064: fox_column_10.png
+    21300066: fox_column_11.png
+    21300068: fox_column_12.png
+    21300070: fox_column_13.png
+    21300072: fox_column_14.png
+    21300074: fox_column_15.png
+    21300076: fox_column_16.png
+    21300078: fox_column_17.png
+    21300080: fox_column_18.png
+    21300082: fox_column_19.png
+    21300084: fox_column_2.png
+    21300086: fox_column_20.png
+    21300088: fox_column_21.png
+    21300090: fox_column_22.png
+    21300092: fox_column_23.png
+    21300094: fox_column_24.png
+    21300096: fox_column_25.png
+    21300098: fox_column_26.png
+    21300100: fox_column_27.png
+    21300102: fox_column_28.png
+    21300104: fox_column_3.png
+    21300106: fox_column_4.png
+    21300108: fox_column_5.png
+    21300110: fox_column_6.png
+    21300112: fox_column_7.png
+    21300114: fox_column_8.png
+    21300116: fox_column_9.png
+    21300118: fox_line_0.png
+    21300120: fox_line_1.png
+    21300122: fox_line_10.png
+    21300124: fox_line_11.png
+    21300126: fox_line_12.png
+    21300128: fox_line_13.png
+    21300130: fox_line_14.png
+    21300132: fox_line_15.png
+    21300134: fox_line_16.png
+    21300136: fox_line_17.png
+    21300138: fox_line_18.png
+    21300140: fox_line_19.png
+    21300142: fox_line_2.png
+    21300144: fox_line_20.png
+    21300146: fox_line_21.png
+    21300148: fox_line_22.png
+    21300150: fox_line_23.png
+    21300152: fox_line_24.png
+    21300154: fox_line_25.png
+    21300156: fox_line_26.png
+    21300158: fox_line_27.png
+    21300160: fox_line_28.png
+    21300162: fox_line_3.png
+    21300164: fox_line_4.png
+    21300166: fox_line_5.png
+    21300168: fox_line_6.png
+    21300170: fox_line_7.png
+    21300172: fox_line_8.png
+    21300174: fox_line_9.png
+    21300176: fox_wrap_0.png
+    21300178: fox_wrap_1.png
+    21300180: fox_wrap_10.png
+    21300182: fox_wrap_11.png
+    21300184: fox_wrap_12.png
+    21300186: fox_wrap_13.png
+    21300188: fox_wrap_14.png
+    21300190: fox_wrap_15.png
+    21300192: fox_wrap_16.png
+    21300194: fox_wrap_17.png
+    21300196: fox_wrap_18.png
+    21300198: fox_wrap_19.png
+    21300200: fox_wrap_2.png
+    21300202: fox_wrap_20.png
+    21300204: fox_wrap_21.png
+    21300206: fox_wrap_22.png
+    21300208: fox_wrap_23.png
+    21300210: fox_wrap_24.png
+    21300212: fox_wrap_25.png
+    21300214: fox_wrap_26.png
+    21300216: fox_wrap_27.png
+    21300218: fox_wrap_28.png
+    21300220: fox_wrap_29.png
+    21300222: fox_wrap_3.png
+    21300224: fox_wrap_30.png
+    21300226: fox_wrap_31.png
+    21300228: fox_wrap_32.png
+    21300230: fox_wrap_33.png
+    21300232: fox_wrap_34.png
+    21300234: fox_wrap_35.png
+    21300236: fox_wrap_36.png
+    21300238: fox_wrap_37.png
+    21300240: fox_wrap_38.png
+    21300242: fox_wrap_39.png
+    21300244: fox_wrap_4.png
+    21300246: fox_wrap_40.png
+    21300248: fox_wrap_41.png
+    21300250: fox_wrap_42.png
+    21300252: fox_wrap_43.png
+    21300254: fox_wrap_44.png
+    21300256: fox_wrap_45.png
+    21300258: fox_wrap_46.png
+    21300260: fox_wrap_47.png
+    21300262: fox_wrap_48.png
+    21300264: fox_wrap_5.png
+    21300266: fox_wrap_6.png
+    21300268: fox_wrap_7.png
+    21300270: fox_wrap_8.png
+    21300272: fox_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fox_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 754
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: -21.5, y: 4}
+        - {x: -21.5, y: -19}
+        - {x: -15.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 21}
+      tessellationDetail: -1
+    - name: fox_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 796
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 9}
+        - {x: -21.5, y: -15}
+        - {x: -17.5, y: -20}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 13}
+        - {x: 19.5, y: 20}
+        - {x: -17.5, y: 20}
+        - {x: -20.5, y: 18}
+      tessellationDetail: -1
+    - name: fox_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 878
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 18}
+        - {x: -21.5, y: -16}
+        - {x: -16.5, y: -18}
+        - {x: 20.5, y: -18}
+        - {x: 21.5, y: -17}
+        - {x: 21.5, y: 18}
+      tessellationDetail: -1
+    - name: fox_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 876
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -21.5, y: 15}
+        - {x: -21.5, y: -14}
+        - {x: -18.5, y: -18}
+        - {x: -17.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 21.5, y: -14}
+        - {x: 21.5, y: 19}
+      tessellationDetail: -1
+    - name: fox_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 796
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20}
+        - {x: -21.5, y: -18}
+        - {x: -16.5, y: -20}
+        - {x: 19.5, y: -20}
+        - {x: 21.5, y: -17}
+        - {x: 21.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 876
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -13}
+        - {x: -17.5, y: -16}
+        - {x: -10.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 21.5, y: -14}
+        - {x: 21.5, y: 18}
+        - {x: 19.5, y: 19}
+      tessellationDetail: -1
+    - name: fox_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20}
+        - {x: -21.5, y: -18}
+        - {x: -17.5, y: -20}
+        - {x: 19.5, y: -20}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 834
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: -14.5, y: -20}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 834
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: -16}
+        - {x: -19.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 19}
+        - {x: 15.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 836
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20}
+        - {x: -21.5, y: 6}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 836
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 20}
+        - {x: -18.5, y: 20}
+        - {x: -21.5, y: 10}
+        - {x: -21.5, y: -18}
+        - {x: -16.5, y: -20}
+        - {x: 19.5, y: -20}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 8}
+        - {x: 20.5, y: 15}
+      tessellationDetail: -1
+    - name: fox_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 874
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 874
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -21.5, y: 17}
+        - {x: -21.5, y: -18}
+        - {x: -15.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 21.5, y: -17}
+        - {x: 21.5, y: 20}
+      tessellationDetail: -1
+    - name: fox_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 756
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 15}
+        - {x: 20.5, y: 21}
+        - {x: -21.5, y: 21}
+        - {x: -21.5, y: -16}
+      tessellationDetail: -1
+    - name: fox_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 792
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21}
+        - {x: -21.5, y: 0}
+        - {x: -21.5, y: -16}
+        - {x: -16.5, y: -21}
+        - {x: 17.5, y: -21}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 11}
+        - {x: 20.5, y: 16}
+        - {x: 15.5, y: 21}
+      tessellationDetail: -1
+    - name: fox_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23}
+        - {x: -23, y: 23}
+        - {x: -24, y: 18}
+        - {x: -24, y: -20}
+        - {x: -16, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -18}
+        - {x: 24, y: 2}
+        - {x: 20, y: 20}
+      tessellationDetail: -1
+    - name: fox_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -24, y: 18}
+        - {x: -24, y: -16}
+        - {x: -17, y: -20}
+        - {x: -12, y: -23}
+        - {x: 21, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 12}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -25, y: 16}
+        - {x: -25, y: -20}
+        - {x: -21, y: -23}
+        - {x: 17, y: -23}
+        - {x: 25, y: -21}
+        - {x: 25, y: 17}
+        - {x: 24, y: 21}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 242
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -25, y: 20}
+        - {x: -25, y: -20}
+        - {x: -19, y: -23}
+        - {x: 25, y: -23}
+        - {x: 25, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 242
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -18}
+        - {x: -16, y: -23}
+        - {x: 15, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 11}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -16}
+        - {x: -21, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 244
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -24, y: 18}
+        - {x: -24, y: -20}
+        - {x: -14, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -16}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -23, y: 17}
+        - {x: -24, y: 8}
+        - {x: -24, y: -19}
+        - {x: -23, y: -21}
+        - {x: -16, y: -23}
+        - {x: 21, y: -23}
+        - {x: 24, y: -20}
+        - {x: 24, y: 12}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 288
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -21, y: 23}
+        - {x: -24, y: 13}
+        - {x: -24, y: -21}
+        - {x: -14, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -16}
+        - {x: 24, y: 2}
+        - {x: 20, y: 21}
+      tessellationDetail: -1
+    - name: fox_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 7}
+        - {x: -24, y: -17}
+        - {x: -18, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -18}
+        - {x: 24, y: 7}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 23}
+        - {x: -23, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: -15}
+        - {x: -14, y: -23}
+        - {x: 12, y: -23}
+        - {x: 24, y: -16}
+        - {x: 24, y: 4}
+        - {x: 22, y: 21}
+      tessellationDetail: -1
+    - name: fox_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 9}
+        - {x: 19, y: 23}
+        - {x: -19, y: 23}
+        - {x: -24, y: 17}
+      tessellationDetail: -1
+    - name: fox_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 336
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -17}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -20}
+        - {x: 24, y: 11}
+        - {x: 20, y: 23}
+        - {x: -23, y: 23}
+        - {x: -24, y: 15}
+      tessellationDetail: -1
+    - name: fox_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 9}
+        - {x: 19, y: 23}
+        - {x: -19, y: 23}
+        - {x: -24, y: 17}
+      tessellationDetail: -1
+    - name: fox_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 9}
+        - {x: 19, y: 23}
+        - {x: -19, y: 23}
+        - {x: -24, y: 17}
+      tessellationDetail: -1
+    - name: fox_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 9}
+        - {x: 19, y: 23}
+        - {x: -19, y: 23}
+        - {x: -24, y: 17}
+      tessellationDetail: -1
+    - name: fox_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 9}
+        - {x: 19, y: 23}
+        - {x: -19, y: 23}
+        - {x: -24, y: 17}
+      tessellationDetail: -1
+    - name: fox_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 12}
+        - {x: -24, y: -19}
+        - {x: -18, y: -23}
+        - {x: 13, y: -23}
+        - {x: 24, y: -18}
+        - {x: 24, y: 8}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -20}
+        - {x: -19, y: -23}
+        - {x: 14, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 380
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 14}
+        - {x: -24, y: -22}
+        - {x: -20, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 10}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 382
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -22, y: 19}
+        - {x: -24, y: 4}
+        - {x: -24, y: -15}
+        - {x: -16, y: -23}
+        - {x: 19, y: -23}
+        - {x: 24, y: -22}
+        - {x: 24, y: 9}
+        - {x: 18, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 388
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -21}
+        - {x: -17, y: -23}
+        - {x: 20, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 2}
+        - {x: 20, y: 20}
+      tessellationDetail: -1
+    - name: fox_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -20}
+        - {x: -17, y: -23}
+        - {x: 25, y: -23}
+        - {x: 25, y: 15}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 334
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 14}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 426
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 9}
+        - {x: -24, y: -18}
+        - {x: -14, y: -23}
+        - {x: 20, y: -23}
+        - {x: 24, y: -16}
+        - {x: 24, y: 13}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 334
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -25, y: 15}
+        - {x: -25, y: -16}
+        - {x: -21, y: -23}
+        - {x: 22, y: -23}
+        - {x: 25, y: -19}
+        - {x: 25, y: 19}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 10}
+        - {x: -25, y: -23}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 18}
+        - {x: 22, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 380
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -23}
+        - {x: 15, y: -23}
+        - {x: 25, y: -20}
+        - {x: 25, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 426
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -23, y: -23}
+        - {x: 25, y: -23}
+        - {x: 25, y: 19}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 426
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 12}
+        - {x: -24, y: -19}
+        - {x: -21, y: -23}
+        - {x: 15, y: -23}
+        - {x: 24, y: -20}
+        - {x: 24, y: 12}
+        - {x: 22, y: 20}
+        - {x: 18, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 428
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -21}
+        - {x: -18, y: -23}
+        - {x: 22, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 21}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -21}
+        - {x: -18, y: -23}
+        - {x: 19, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 4}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 472
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: 23, y: -23}
+        - {x: 24, y: -22}
+        - {x: 24, y: 17}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 474
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -24, y: 21}
+        - {x: -24, y: -19}
+        - {x: -21, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -18}
+        - {x: 24, y: 14}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 480
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -21}
+        - {x: -18, y: -23}
+        - {x: 21, y: -23}
+        - {x: 24, y: -20}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 472
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23}
+        - {x: -20, y: 21}
+        - {x: -25, y: 11}
+        - {x: -25, y: -17}
+        - {x: -23, y: -23}
+        - {x: 17, y: -23}
+        - {x: 25, y: -18}
+        - {x: 25, y: 12}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23}
+        - {x: -15, y: 23}
+        - {x: -23, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 7}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 526
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: 22}
+        - {x: -24, y: 12}
+        - {x: -24, y: -18}
+        - {x: -17, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -22}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 564
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23}
+        - {x: -24, y: 23}
+        - {x: -24, y: -21}
+        - {x: -16, y: -23}
+        - {x: 20, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 4}
+        - {x: 20, y: 22}
+      tessellationDetail: -1
+    - name: fox_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 564
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 10}
+        - {x: -24, y: -21}
+        - {x: -22, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 19}
+        - {x: 18, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 426
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 9}
+        - {x: -24, y: -18}
+        - {x: -14, y: -23}
+        - {x: 20, y: -23}
+        - {x: 24, y: -16}
+        - {x: 24, y: 13}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -17, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -25, y: 22}
+        - {x: -25, y: -19}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 566
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -24, y: 14}
+        - {x: -24, y: -17}
+        - {x: -21, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 10}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 572
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 23}
+        - {x: -21, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -16}
+        - {x: -13, y: -23}
+        - {x: 11, y: -23}
+        - {x: 24, y: -17}
+        - {x: 24, y: 11}
+        - {x: 23, y: 18}
+      tessellationDetail: -1
+    - name: fox_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 472
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -18, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -18}
+        - {x: 25, y: 6}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -25, y: 12}
+        - {x: -25, y: -23}
+        - {x: -21, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 10}
+        - {x: 21, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -25, y: 18}
+        - {x: -25, y: -22}
+        - {x: -20, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 12}
+        - {x: 22, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 14}
+        - {x: -25, y: -22}
+        - {x: -17, y: -24}
+        - {x: 24, y: -24}
+        - {x: 25, y: -23}
+        - {x: 25, y: 16}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 24}
+        - {x: -25, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 518
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -20, y: -23}
+        - {x: 17, y: -23}
+        - {x: 25, y: -20}
+        - {x: 25, y: 18}
+        - {x: 24, y: 22}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 518
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 23}
+        - {x: -25, y: 23}
+        - {x: -25, y: -21}
+        - {x: -19, y: -23}
+        - {x: 20, y: -23}
+        - {x: 25, y: -17}
+        - {x: 25, y: 9}
+        - {x: 23, y: 20}
+      tessellationDetail: -1
+    - name: fox_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 710
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -24, y: -21}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 24, y: -20}
+        - {x: 24, y: 10}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 610
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -16}
+        - {x: -17, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 748
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -24, y: 7}
+        - {x: -24, y: -16}
+        - {x: -14, y: -22}
+        - {x: 21, y: -22}
+        - {x: 24, y: -18}
+        - {x: 24, y: 17}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 610
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -24, y: 21}
+        - {x: -24, y: -22}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 24, y: -22}
+        - {x: 24, y: 11}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 610
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -20}
+        - {x: -21, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 22}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 518
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -25, y: 21}
+        - {x: -25, y: -23}
+        - {x: 25, y: -23}
+        - {x: 25, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 564
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: -19, y: -23}
+        - {x: 24, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 6}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -25, y: 13}
+        - {x: -25, y: -20}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 25, y: -22}
+        - {x: 25, y: 17}
+        - {x: 18, y: 22}
+        - {x: 11, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 14}
+        - {x: -25, y: -22}
+        - {x: -17, y: -24}
+        - {x: 24, y: -24}
+        - {x: 25, y: -23}
+        - {x: 25, y: 16}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: 10}
+        - {x: -25, y: 3}
+        - {x: -25, y: -17}
+        - {x: -18, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 9}
+        - {x: 18, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -25, y: 13}
+        - {x: -25, y: -22}
+        - {x: -20, y: -24}
+        - {x: 23, y: -24}
+        - {x: 25, y: -23}
+        - {x: 25, y: 8}
+        - {x: 19, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 8}
+        - {x: -25, y: -19}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 20}
+        - {x: -25, y: -14}
+        - {x: -21, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 22}
+        - {x: 22, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 612
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -19}
+        - {x: -20, y: -23}
+        - {x: 19, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 23, y: 22}
+        - {x: 21, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -20, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 11}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 748
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -24, y: -22}
+        - {x: 19, y: -22}
+        - {x: 24, y: -20}
+        - {x: 24, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 656
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -22}
+        - {x: -20, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 11}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 656
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -19}
+        - {x: -20, y: -23}
+        - {x: 19, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 23, y: 22}
+        - {x: 21, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 146
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -25, y: 11}
+        - {x: -25, y: -16}
+        - {x: -15, y: -24}
+        - {x: 12, y: -24}
+        - {x: 25, y: -20}
+        - {x: 25, y: 19}
+        - {x: 24, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 8}
+        - {x: -25, y: -19}
+        - {x: -20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 148
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -24}
+        - {x: 22, y: -24}
+        - {x: 25, y: -20}
+        - {x: 25, y: 16}
+        - {x: 20, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 18}
+        - {x: -25, y: -24}
+        - {x: 20, y: -24}
+        - {x: 25, y: -21}
+        - {x: 25, y: 21}
+        - {x: 18, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -1}
+        - {x: 21, y: 5}
+        - {x: 24, y: 9}
+        - {x: 25, y: 17}
+        - {x: 18, y: 22}
+        - {x: 12, y: 24}
+        - {x: -23, y: 24}
+        - {x: -25, y: 17}
+        - {x: -25, y: -22}
+        - {x: -22, y: -24}
+        - {x: 17, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 5}
+        - {x: 22, y: 4}
+      tessellationDetail: -1
+    - name: fox_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -22, y: 16}
+        - {x: -24, y: 4}
+        - {x: -24, y: -16}
+        - {x: -19, y: -23}
+        - {x: 20, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 8}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 750
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -24, y: 7}
+        - {x: -24, y: -16}
+        - {x: -14, y: -22}
+        - {x: 21, y: -22}
+        - {x: 24, y: -18}
+        - {x: 24, y: 17}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    - name: fox_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 658
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -24, y: 14}
+        - {x: -24, y: -17}
+        - {x: -21, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 10}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 664
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -24, y: 16}
+        - {x: -24, y: -17}
+        - {x: -22, y: -22}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 24, y: -18}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 702
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23}
+        - {x: -25, y: 23}
+        - {x: -25, y: -22}
+        - {x: -21, y: -23}
+        - {x: 20, y: -23}
+        - {x: 25, y: -17}
+        - {x: 25, y: 5}
+        - {x: 23, y: 19}
+      tessellationDetail: -1
+    - name: fox_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -21}
+        - {x: 25, y: 15}
+        - {x: 22, y: 24}
+        - {x: -23, y: 24}
+        - {x: -25, y: 13}
+      tessellationDetail: -1
+    - name: fox_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: -22, y: -24}
+        - {x: 11, y: -24}
+        - {x: 19, y: -21}
+        - {x: 25, y: -18}
+        - {x: 25, y: 24}
+      tessellationDetail: -1
+    - name: fox_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: -21, y: 24}
+        - {x: -25, y: 18}
+        - {x: -25, y: -19}
+        - {x: -22, y: -24}
+        - {x: 13, y: -24}
+        - {x: 25, y: -17}
+        - {x: 25, y: 9}
+        - {x: 23, y: 21}
+      tessellationDetail: -1
+    - name: fox_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 702
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23}
+        - {x: -25, y: 23}
+        - {x: -25, y: -16}
+        - {x: -19, y: -23}
+        - {x: 17, y: -23}
+        - {x: 25, y: -19}
+        - {x: 25, y: 9}
+        - {x: 24, y: 19}
+      tessellationDetail: -1
+    - name: fox_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -17}
+        - {x: -22, y: -22}
+        - {x: -21, y: -23}
+        - {x: 22, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 704
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 15}
+        - {x: -24, y: 14}
+        - {x: -24, y: -17}
+        - {x: -21, y: -23}
+        - {x: 16, y: -23}
+        - {x: 24, y: -19}
+        - {x: 24, y: 10}
+        - {x: 20, y: 23}
+      tessellationDetail: -1
+    - name: fox_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 750
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -24, y: 7}
+        - {x: -24, y: -16}
+        - {x: -14, y: -22}
+        - {x: 21, y: -22}
+        - {x: 24, y: -18}
+        - {x: 24, y: 17}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

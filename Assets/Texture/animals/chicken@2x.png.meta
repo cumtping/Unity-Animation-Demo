@@ -1,0 +1,2824 @@
+fileFormatVersion: 2
+guid: 8fd0221cc4814904eb30d3b52c18e4ac
+timeCreated: 1465312391
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken_click_0.png
+    21300002: chicken_click_1.png
+    21300004: chicken_click_10.png
+    21300006: chicken_click_11.png
+    21300008: chicken_click_12.png
+    21300010: chicken_click_13.png
+    21300012: chicken_click_14.png
+    21300014: chicken_click_15.png
+    21300016: chicken_click_16.png
+    21300018: chicken_click_17.png
+    21300020: chicken_click_18.png
+    21300022: chicken_click_19.png
+    21300024: chicken_click_2.png
+    21300026: chicken_click_20.png
+    21300028: chicken_click_21.png
+    21300030: chicken_click_22.png
+    21300032: chicken_click_23.png
+    21300034: chicken_click_24.png
+    21300036: chicken_click_25.png
+    21300038: chicken_click_26.png
+    21300040: chicken_click_27.png
+    21300042: chicken_click_28.png
+    21300044: chicken_click_29.png
+    21300046: chicken_click_3.png
+    21300048: chicken_click_4.png
+    21300050: chicken_click_5.png
+    21300052: chicken_click_6.png
+    21300054: chicken_click_7.png
+    21300056: chicken_click_8.png
+    21300058: chicken_click_9.png
+    21300060: chicken_column_0.png
+    21300062: chicken_column_1.png
+    21300064: chicken_column_10.png
+    21300066: chicken_column_11.png
+    21300068: chicken_column_12.png
+    21300070: chicken_column_13.png
+    21300072: chicken_column_14.png
+    21300074: chicken_column_15.png
+    21300076: chicken_column_16.png
+    21300078: chicken_column_17.png
+    21300080: chicken_column_18.png
+    21300082: chicken_column_19.png
+    21300084: chicken_column_2.png
+    21300086: chicken_column_20.png
+    21300088: chicken_column_21.png
+    21300090: chicken_column_22.png
+    21300092: chicken_column_23.png
+    21300094: chicken_column_24.png
+    21300096: chicken_column_25.png
+    21300098: chicken_column_26.png
+    21300100: chicken_column_27.png
+    21300102: chicken_column_28.png
+    21300104: chicken_column_3.png
+    21300106: chicken_column_4.png
+    21300108: chicken_column_5.png
+    21300110: chicken_column_6.png
+    21300112: chicken_column_7.png
+    21300114: chicken_column_8.png
+    21300116: chicken_column_9.png
+    21300118: chicken_line_0.png
+    21300120: chicken_line_1.png
+    21300122: chicken_line_10.png
+    21300124: chicken_line_11.png
+    21300126: chicken_line_12.png
+    21300128: chicken_line_13.png
+    21300130: chicken_line_14.png
+    21300132: chicken_line_15.png
+    21300134: chicken_line_16.png
+    21300136: chicken_line_17.png
+    21300138: chicken_line_18.png
+    21300140: chicken_line_19.png
+    21300142: chicken_line_2.png
+    21300144: chicken_line_20.png
+    21300146: chicken_line_21.png
+    21300148: chicken_line_22.png
+    21300150: chicken_line_23.png
+    21300152: chicken_line_24.png
+    21300154: chicken_line_25.png
+    21300156: chicken_line_26.png
+    21300158: chicken_line_27.png
+    21300160: chicken_line_28.png
+    21300162: chicken_line_3.png
+    21300164: chicken_line_4.png
+    21300166: chicken_line_5.png
+    21300168: chicken_line_6.png
+    21300170: chicken_line_7.png
+    21300172: chicken_line_8.png
+    21300174: chicken_line_9.png
+    21300176: chicken_wrap_0.png
+    21300178: chicken_wrap_1.png
+    21300180: chicken_wrap_10.png
+    21300182: chicken_wrap_11.png
+    21300184: chicken_wrap_12.png
+    21300186: chicken_wrap_13.png
+    21300188: chicken_wrap_14.png
+    21300190: chicken_wrap_15.png
+    21300192: chicken_wrap_16.png
+    21300194: chicken_wrap_17.png
+    21300196: chicken_wrap_18.png
+    21300198: chicken_wrap_19.png
+    21300200: chicken_wrap_2.png
+    21300202: chicken_wrap_20.png
+    21300204: chicken_wrap_21.png
+    21300206: chicken_wrap_22.png
+    21300208: chicken_wrap_23.png
+    21300210: chicken_wrap_24.png
+    21300212: chicken_wrap_25.png
+    21300214: chicken_wrap_26.png
+    21300216: chicken_wrap_27.png
+    21300218: chicken_wrap_28.png
+    21300220: chicken_wrap_29.png
+    21300222: chicken_wrap_3.png
+    21300224: chicken_wrap_30.png
+    21300226: chicken_wrap_31.png
+    21300228: chicken_wrap_32.png
+    21300230: chicken_wrap_33.png
+    21300232: chicken_wrap_34.png
+    21300234: chicken_wrap_35.png
+    21300236: chicken_wrap_36.png
+    21300238: chicken_wrap_37.png
+    21300240: chicken_wrap_38.png
+    21300242: chicken_wrap_39.png
+    21300244: chicken_wrap_4.png
+    21300246: chicken_wrap_40.png
+    21300248: chicken_wrap_41.png
+    21300250: chicken_wrap_42.png
+    21300252: chicken_wrap_43.png
+    21300254: chicken_wrap_44.png
+    21300256: chicken_wrap_45.png
+    21300258: chicken_wrap_46.png
+    21300260: chicken_wrap_47.png
+    21300262: chicken_wrap_48.png
+    21300264: chicken_wrap_5.png
+    21300266: chicken_wrap_6.png
+    21300268: chicken_wrap_7.png
+    21300270: chicken_wrap_8.png
+    21300272: chicken_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chicken_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 14.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 9.5, y: 19.5}
+      tessellationDetail: -1
+    - name: chicken_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 9.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 9.5, y: 19.5}
+      tessellationDetail: -1
+    - name: chicken_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 14.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 4.5}
+        - {x: 13.5, y: 17.5}
+      tessellationDetail: -1
+    - name: chicken_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 11.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 4.5}
+        - {x: 13.5, y: 17.5}
+      tessellationDetail: -1
+    - name: chicken_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 14.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 9.5, y: 19.5}
+      tessellationDetail: -1
+    - name: chicken_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 9.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 1.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 4.5}
+        - {x: 11.5, y: 19.5}
+      tessellationDetail: -1
+    - name: chicken_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 10.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 20.5}
+        - {x: -5.5, y: 20.5}
+        - {x: -18.5, y: 10.5}
+        - {x: -20.5, y: 2.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: -1.5}
+        - {x: 13.5, y: 19.5}
+      tessellationDetail: -1
+    - name: chicken_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 11.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 4.5}
+        - {x: 13.5, y: 17.5}
+      tessellationDetail: -1
+    - name: chicken_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 23.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 22.5, y: 4.5}
+        - {x: 12.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -22.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 21.5, y: -20.5}
+        - {x: 23.5, y: -14.5}
+        - {x: 23.5, y: 16.5}
+      tessellationDetail: -1
+    - name: chicken_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -0.5, y: -25.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 0.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 23.5, y: 9.5}
+        - {x: 11.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 11.5, y: -24.5}
+        - {x: 23.5, y: -13.5}
+        - {x: 23.5, y: 17.5}
+        - {x: 6.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 102
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: -0.5, y: -24.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 10.5}
+        - {x: 15.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 15.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 6.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 23.5}
+        - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 9.5, y: -19.5}
+        - {x: 22.5, y: -12.5}
+        - {x: 22.5, y: 10.5}
+      tessellationDetail: -1
+    - name: chicken_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 0.5, y: -24.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 23.5, y: 8.5}
+        - {x: 7.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 2.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 192
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -5.5, y: -23.5}
+        - {x: 22.5, y: -11.5}
+        - {x: 22.5, y: 16.5}
+        - {x: 4.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 23.5}
+        - {x: -13.5, y: 23.5}
+        - {x: -23.5, y: -0.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 0.5}
+        - {x: 17.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 18.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 15.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 15.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 2.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 15.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 151
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 23.5}
+        - {x: -7.5, y: 23.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 16.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24.5}
+        - {x: -5.5, y: 24.5}
+        - {x: -7.5, y: 22.5}
+        - {x: -10.5, y: 20.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 18.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 16.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 151
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -23.5}
+        - {x: 24.5, y: -23.5}
+        - {x: 24.5, y: -2.5}
+        - {x: 14.5, y: 23.5}
+        - {x: -14.5, y: 23.5}
+        - {x: -24.5, y: 0.5}
+      tessellationDetail: -1
+    - name: chicken_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 151
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -23.5}
+        - {x: 24.5, y: -23.5}
+        - {x: 24.5, y: 4.5}
+        - {x: 13.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 15.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 23.5}
+        - {x: -8.5, y: 23.5}
+        - {x: -23.5, y: -0.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 13.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 23.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 18.5}
+        - {x: 14.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -0.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 9.5}
+        - {x: 19.5, y: 23.5}
+        - {x: -3.5, y: 23.5}
+        - {x: -6.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: -0.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 11.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: -1
+    - name: chicken_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 23.5}
+        - {x: -3.5, y: 23.5}
+        - {x: -23.5, y: 0.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 8.5}
+        - {x: 14.5, y: 20.5}
+      tessellationDetail: -1
+    - name: chicken_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 12.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 100
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 15.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -24.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 24.5, y: -23.5}
+        - {x: 24.5, y: 10.5}
+        - {x: 20.5, y: 24.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+      tessellationDetail: -1
+    - name: chicken_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 17.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 194
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22.5}
+        - {x: -23.5, y: -1.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 11.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 194
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 3.5}
+        - {x: 11.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -22.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 20.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -24.5, y: 0.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 9.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 1.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -24.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 24.5, y: -25.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 13.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 5.5, y: -25.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 3.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 9.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 1.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24.5}
+        - {x: -9.5, y: 24.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 4.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 51
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23.5}
+        - {x: -22.5, y: 8.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 16.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -22.5, y: 1.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -22.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 20.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -24.5, y: 0.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 9.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 1.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -24.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 24.5, y: -25.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 13.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 5.5, y: -25.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 3.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 9.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 1.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24.5}
+        - {x: -9.5, y: 24.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 4.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 147
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 23.5}
+        - {x: -23.5, y: 6.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 12.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 51
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -22.5, y: 1.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 13.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -22.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 20.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -24.5, y: 0.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -25.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 9.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 1.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 49
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -24.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 24.5, y: -25.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 13.5, y: -22.5}
+      - - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 5.5, y: -25.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 3.5, y: 25.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 147
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 23.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -23.5, y: -1.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 10.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 55
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -22.5, y: 1.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 145
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 11.5}
+        - {x: 5.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 8.5, y: -24.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 23.5, y: -10.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 149
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 23.5, y: -10.5}
+        - {x: 23.5, y: 7.5}
+        - {x: 5.5, y: 24.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 147
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -8.5, y: 23.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 16.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 151
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23.5}
+        - {x: -20.5, y: 11.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 18.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 147
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 23.5}
+        - {x: -23.5, y: 6.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 12.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 151
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23.5}
+        - {x: -22.5, y: 8.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 1.5}
+        - {x: 16.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 151
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 23.5}
+        - {x: -11.5, y: 15.5}
+        - {x: -23.5, y: 4.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 18.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 194
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22.5}
+        - {x: -23.5, y: -1.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 11.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 147
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 23.5}
+        - {x: -8.5, y: 23.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 16.5, y: 22.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 151
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 16.5, y: 23.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 145
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 11.5}
+        - {x: 5.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 8.5, y: -24.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 23.5, y: -10.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 55
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -22.5, y: 1.5}
+      tessellationDetail: -1
+    - name: chicken_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -7.5, y: 24.5}
+        - {x: -22.5, y: 1.5}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

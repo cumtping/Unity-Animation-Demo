@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{561BE5E4-8611-D3E6-204C-D42D9D48D727}") = "Unity-Animation-Demo", "Assembly-CSharp-firstpass.csproj", "{4EF21362-4788-3B92-90F8-333FF5E31BBF}"
+EndProject
+Project("{561BE5E4-8611-D3E6-204C-D42D9D48D727}") = "Unity-Animation-Demo", "Assembly-CSharp.csproj", "{BBC75113-B56A-B747-B80A-ED6D94135369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{4EF21362-4788-3B92-90F8-333FF5E31BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF21362-4788-3B92-90F8-333FF5E31BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF21362-4788-3B92-90F8-333FF5E31BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF21362-4788-3B92-90F8-333FF5E31BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC75113-B56A-B747-B80A-ED6D94135369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC75113-B56A-B747-B80A-ED6D94135369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC75113-B56A-B747-B80A-ED6D94135369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC75113-B56A-B747-B80A-ED6D94135369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

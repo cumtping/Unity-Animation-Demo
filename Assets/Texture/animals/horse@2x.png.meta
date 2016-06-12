@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 864f9b5311825d04a85efb9e08f5fcac
+timeCreated: 1465314111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: horse_click_0.png
+    21300002: horse_click_1.png
+    21300004: horse_click_10.png
+    21300006: horse_click_11.png
+    21300008: horse_click_12.png
+    21300010: horse_click_13.png
+    21300012: horse_click_14.png
+    21300014: horse_click_15.png
+    21300016: horse_click_16.png
+    21300018: horse_click_17.png
+    21300020: horse_click_18.png
+    21300022: horse_click_19.png
+    21300024: horse_click_2.png
+    21300026: horse_click_20.png
+    21300028: horse_click_21.png
+    21300030: horse_click_22.png
+    21300032: horse_click_23.png
+    21300034: horse_click_24.png
+    21300036: horse_click_25.png
+    21300038: horse_click_26.png
+    21300040: horse_click_27.png
+    21300042: horse_click_28.png
+    21300044: horse_click_29.png
+    21300046: horse_click_3.png
+    21300048: horse_click_4.png
+    21300050: horse_click_5.png
+    21300052: horse_click_6.png
+    21300054: horse_click_7.png
+    21300056: horse_click_8.png
+    21300058: horse_click_9.png
+    21300060: horse_column_0.png
+    21300062: horse_column_1.png
+    21300064: horse_column_10.png
+    21300066: horse_column_11.png
+    21300068: horse_column_12.png
+    21300070: horse_column_13.png
+    21300072: horse_column_14.png
+    21300074: horse_column_15.png
+    21300076: horse_column_16.png
+    21300078: horse_column_17.png
+    21300080: horse_column_18.png
+    21300082: horse_column_19.png
+    21300084: horse_column_2.png
+    21300086: horse_column_20.png
+    21300088: horse_column_21.png
+    21300090: horse_column_22.png
+    21300092: horse_column_23.png
+    21300094: horse_column_24.png
+    21300096: horse_column_25.png
+    21300098: horse_column_26.png
+    21300100: horse_column_27.png
+    21300102: horse_column_28.png
+    21300104: horse_column_29.png
+    21300106: horse_column_3.png
+    21300108: horse_column_4.png
+    21300110: horse_column_5.png
+    21300112: horse_column_6.png
+    21300114: horse_column_7.png
+    21300116: horse_column_8.png
+    21300118: horse_column_9.png
+    21300120: horse_line_0.png
+    21300122: horse_line_1.png
+    21300124: horse_line_11.png
+    21300126: horse_line_12.png
+    21300128: horse_line_13.png
+    21300130: horse_line_14.png
+    21300132: horse_line_15.png
+    21300134: horse_line_16.png
+    21300136: horse_line_17.png
+    21300138: horse_line_18.png
+    21300140: horse_line_19.png
+    21300142: horse_line_2.png
+    21300144: horse_line_20.png
+    21300146: horse_line_21.png
+    21300148: horse_line_22.png
+    21300150: horse_line_23.png
+    21300152: horse_line_24.png
+    21300154: horse_line_25.png
+    21300156: horse_line_26.png
+    21300158: horse_line_27.png
+    21300160: horse_line_28.png
+    21300162: horse_line_29.png
+    21300164: horse_line_3.png
+    21300166: horse_wrap_10.png
+    21300168: horse_wrap_11.png
+    21300170: horse_wrap_12.png
+    21300172: horse_wrap_13.png
+    21300174: horse_wrap_14.png
+    21300176: horse_wrap_15.png
+    21300178: horse_wrap_16.png
+    21300180: horse_wrap_17.png
+    21300182: horse_wrap_18.png
+    21300184: horse_wrap_19.png
+    21300186: horse_wrap_2.png
+    21300188: horse_wrap_20.png
+    21300190: horse_wrap_21.png
+    21300192: horse_wrap_22.png
+    21300194: horse_wrap_23.png
+    21300196: horse_wrap_24.png
+    21300198: horse_wrap_25.png
+    21300200: horse_wrap_26.png
+    21300202: horse_wrap_27.png
+    21300204: horse_wrap_28.png
+    21300206: horse_wrap_29.png
+    21300208: horse_wrap_3.png
+    21300210: horse_wrap_30.png
+    21300212: horse_wrap_31.png
+    21300214: horse_wrap_32.png
+    21300216: horse_wrap_33.png
+    21300218: horse_wrap_34.png
+    21300220: horse_wrap_35.png
+    21300222: horse_wrap_36.png
+    21300224: horse_wrap_37.png
+    21300226: horse_wrap_38.png
+    21300228: horse_wrap_39.png
+    21300230: horse_wrap_4.png
+    21300232: horse_wrap_40.png
+    21300234: horse_wrap_41.png
+    21300236: horse_wrap_42.png
+    21300238: horse_wrap_43.png
+    21300240: horse_wrap_44.png
+    21300242: horse_wrap_45.png
+    21300244: horse_wrap_46.png
+    21300246: horse_wrap_47.png
+    21300248: horse_wrap_5.png
+    21300250: horse_wrap_6.png
+    21300252: horse_wrap_7.png
+    21300254: horse_wrap_8.png
+    21300256: horse_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horse_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -19.5, y: 17.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 15.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 285
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 6.5, y: -20.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 324
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 19.5}
+        - {x: 8.5, y: 21.5}
+        - {x: -19.5, y: 21.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 19.5, y: -13.5}
+      tessellationDetail: -1
+    - name: horse_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -16.5, y: -20.5}
+        - {x: 7.5, y: -20.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 18.5}
+        - {x: 18.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -17.5}
+        - {x: -17.5, y: -19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 16.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: -1
+    - name: horse_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+      tessellationDetail: -1
+    - name: horse_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 235
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -18.5}
+        - {x: -19, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 237
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 102
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -17.5}
+        - {x: -17, y: -22.5}
+        - {x: 20, y: -22.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -23, y: 22.5}
+        - {x: -23, y: -20.5}
+        - {x: -22, y: -22.5}
+        - {x: 20, y: -22.5}
+        - {x: 23, y: -17.5}
+        - {x: 23, y: 12.5}
+        - {x: 22, y: 20.5}
+      tessellationDetail: -1
+    - name: horse_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 22, y: -20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 235
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -18.5}
+        - {x: -19, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 279
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23.5}
+        - {x: -22, y: 18.5}
+        - {x: -22, y: -23.5}
+        - {x: 22, y: -23.5}
+        - {x: 22, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -20.5}
+        - {x: -20, y: -22.5}
+        - {x: 13, y: -22.5}
+        - {x: 22, y: -20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -22, y: -16.5}
+        - {x: -16, y: -22.5}
+        - {x: 12, y: -22.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 21.5}
+        - {x: 21, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -22, y: 21.5}
+        - {x: -22, y: -18.5}
+        - {x: -17, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -18.5}
+        - {x: -22, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 19.5}
+        - {x: 20, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 281
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 281
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -18.5}
+        - {x: -18, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 281
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -22, y: 18.5}
+        - {x: -22, y: -19.5}
+        - {x: -17, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 22, y: -20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: horse_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 235
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -18.5}
+        - {x: -19, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: horse_column_29.png
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 144
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 20}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    - name: horse_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -21.5}
+        - {x: -20, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -20.5}
+        - {x: -22, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+      tessellationDetail: -1
+    - name: horse_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -18}
+        - {x: -20, y: -23}
+        - {x: 11, y: -23}
+        - {x: 18, y: -21}
+        - {x: 22, y: -19}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 142
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -22, y: 20}
+        - {x: -22, y: -18}
+        - {x: -17, y: -23}
+        - {x: 9, y: -23}
+        - {x: 22, y: -20}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -23}
+        - {x: 22, y: -23}
+        - {x: 23, y: -21}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -19}
+        - {x: -18, y: -23}
+        - {x: 19, y: -23}
+        - {x: 23, y: -17}
+        - {x: 23, y: 22}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 142
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -22}
+        - {x: -21, y: -23}
+        - {x: 21, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 22}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -18}
+        - {x: -20, y: -23}
+        - {x: 11, y: -23}
+        - {x: 18, y: -21}
+        - {x: 22, y: -19}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 142
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 13, y: -23}
+        - {x: 17, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 144
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 16}
+        - {x: 20, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22}
+        - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 20, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 10}
+        - {x: 21, y: 17}
+      tessellationDetail: -1
+    - name: horse_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19}
+        - {x: 19, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: horse_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 12, y: -23}
+        - {x: 22, y: -22}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 23}
+        - {x: -22, y: 20}
+        - {x: -22, y: -19}
+        - {x: -20, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 22}
+        - {x: 19, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -18}
+        - {x: -20, y: -23}
+        - {x: 11, y: -23}
+        - {x: 18, y: -21}
+        - {x: 22, y: -19}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_29.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 284
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: -21, y: -21}
+        - {x: 19, y: -21}
+        - {x: 21, y: -19}
+        - {x: 21, y: 20}
+        - {x: 18, y: 21}
+      tessellationDetail: -1
+    - name: horse_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -23}
+        - {x: 21, y: -23}
+        - {x: 23, y: -20}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -17}
+        - {x: -17, y: -24}
+        - {x: 8, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -19}
+        - {x: -22, y: -23}
+        - {x: 18, y: -23}
+        - {x: 23, y: -18}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 188
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: horse_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -22}
+        - {x: -19, y: -24}
+        - {x: 5, y: -24}
+        - {x: 23, y: -22}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 48
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -19, y: -23}
+        - {x: 22, y: -23}
+        - {x: 23, y: -21}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 234
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: horse_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -22}
+        - {x: -19, y: -24}
+        - {x: 5, y: -24}
+        - {x: 23, y: -22}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -22, y: 21}
+        - {x: -22, y: -19}
+        - {x: -21, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 234
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: horse_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -22}
+        - {x: -19, y: -24}
+        - {x: 5, y: -24}
+        - {x: 23, y: -22}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 192
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -18}
+        - {x: -18, y: -22}
+        - {x: 19, y: -22}
+        - {x: 22, y: -20}
+        - {x: 22, y: 18}
+        - {x: 21, y: 22}
+      tessellationDetail: -1
+    - name: horse_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -20}
+        - {x: -21, y: -24}
+        - {x: 14, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -19}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 234
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -17}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 21}
+      tessellationDetail: -1
+    - name: horse_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 236
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+      tessellationDetail: -1
+    - name: horse_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 234
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -21}
+        - {x: -17, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 96
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -23, y: 19}
+        - {x: -23, y: -16}
+        - {x: -20, y: -20}
+        - {x: -18, y: -22}
+        - {x: -15, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -23, y: 21}
+        - {x: -23, y: -22}
+        - {x: -22, y: -24}
+        - {x: 21, y: -24}
+        - {x: 23, y: -20}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: -2
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - name: horse_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 188
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -20}
+        - {x: -19, y: -23}
+        - {x: 10, y: -23}
+        - {x: 22, y: -20}
+        - {x: 22, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 188
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: -23}
+        - {x: 15, y: -23}
+        - {x: 22, y: -22}
+        - {x: 22, y: 22}
+        - {x: 21, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -23, y: 20}
+        - {x: -23, y: -18}
+        - {x: -17, y: -23}
+        - {x: 18, y: -23}
+        - {x: 22, y: -18}
+        - {x: 23, y: -17}
+        - {x: 23, y: 23}
+      tessellationDetail: -1
+    - name: horse_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -23, y: 18}
+        - {x: -23, y: -20}
+        - {x: -18, y: -24}
+        - {x: 8, y: -24}
+        - {x: 19, y: -22}
+        - {x: 23, y: -20}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    - name: horse_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 46
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -19}
+        - {x: -17, y: -24}
+        - {x: 10, y: -24}
+        - {x: 21, y: -23}
+        - {x: 23, y: -20}
+        - {x: 23, y: 24}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

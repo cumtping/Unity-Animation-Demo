@@ -1,0 +1,2793 @@
+fileFormatVersion: 2
+guid: ead18e0430e97af4ea0995f2df262a9d
+timeCreated: 1465314098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frog_click_0.png
+    21300002: frog_click_1.png
+    21300004: frog_click_10.png
+    21300006: frog_click_11.png
+    21300008: frog_click_12.png
+    21300010: frog_click_13.png
+    21300012: frog_click_14.png
+    21300014: frog_click_15.png
+    21300016: frog_click_16.png
+    21300018: frog_click_17.png
+    21300020: frog_click_18.png
+    21300022: frog_click_19.png
+    21300024: frog_click_2.png
+    21300026: frog_click_20.png
+    21300028: frog_click_21.png
+    21300030: frog_click_22.png
+    21300032: frog_click_23.png
+    21300034: frog_click_24.png
+    21300036: frog_click_25.png
+    21300038: frog_click_26.png
+    21300040: frog_click_27.png
+    21300042: frog_click_28.png
+    21300044: frog_click_29.png
+    21300046: frog_click_3.png
+    21300048: frog_click_4.png
+    21300050: frog_click_5.png
+    21300052: frog_click_6.png
+    21300054: frog_click_7.png
+    21300056: frog_click_8.png
+    21300058: frog_click_9.png
+    21300060: frog_column_0.png
+    21300062: frog_column_1.png
+    21300064: frog_column_10.png
+    21300066: frog_column_11.png
+    21300068: frog_column_12.png
+    21300070: frog_column_13.png
+    21300072: frog_column_14.png
+    21300074: frog_column_15.png
+    21300076: frog_column_16.png
+    21300078: frog_column_17.png
+    21300080: frog_column_18.png
+    21300082: frog_column_19.png
+    21300084: frog_column_2.png
+    21300086: frog_column_20.png
+    21300088: frog_column_21.png
+    21300090: frog_column_22.png
+    21300092: frog_column_23.png
+    21300094: frog_column_24.png
+    21300096: frog_column_25.png
+    21300098: frog_column_26.png
+    21300100: frog_column_27.png
+    21300102: frog_column_28.png
+    21300104: frog_column_29.png
+    21300106: frog_column_3.png
+    21300108: frog_column_4.png
+    21300110: frog_column_5.png
+    21300112: frog_column_6.png
+    21300114: frog_column_7.png
+    21300116: frog_column_8.png
+    21300118: frog_column_9.png
+    21300120: frog_line_0.png
+    21300122: frog_line_1.png
+    21300124: frog_line_10.png
+    21300126: frog_line_11.png
+    21300128: frog_line_12.png
+    21300130: frog_line_13.png
+    21300132: frog_line_14.png
+    21300134: frog_line_15.png
+    21300136: frog_line_16.png
+    21300138: frog_line_17.png
+    21300140: frog_line_18.png
+    21300142: frog_line_19.png
+    21300144: frog_line_2.png
+    21300146: frog_line_20.png
+    21300148: frog_line_21.png
+    21300150: frog_line_22.png
+    21300152: frog_line_23.png
+    21300154: frog_line_24.png
+    21300156: frog_line_25.png
+    21300158: frog_line_26.png
+    21300160: frog_line_27.png
+    21300162: frog_line_28.png
+    21300164: frog_line_3.png
+    21300166: frog_line_4.png
+    21300168: frog_line_5.png
+    21300170: frog_line_6.png
+    21300172: frog_line_7.png
+    21300174: frog_line_8.png
+    21300176: frog_line_9.png
+    21300178: frog_wrap_0.png
+    21300180: frog_wrap_1.png
+    21300182: frog_wrap_10.png
+    21300184: frog_wrap_11.png
+    21300186: frog_wrap_12.png
+    21300188: frog_wrap_13.png
+    21300190: frog_wrap_14.png
+    21300192: frog_wrap_15.png
+    21300194: frog_wrap_16.png
+    21300196: frog_wrap_17.png
+    21300198: frog_wrap_18.png
+    21300200: frog_wrap_19.png
+    21300202: frog_wrap_2.png
+    21300204: frog_wrap_20.png
+    21300206: frog_wrap_21.png
+    21300208: frog_wrap_22.png
+    21300210: frog_wrap_23.png
+    21300212: frog_wrap_24.png
+    21300214: frog_wrap_25.png
+    21300216: frog_wrap_26.png
+    21300218: frog_wrap_27.png
+    21300220: frog_wrap_28.png
+    21300222: frog_wrap_29.png
+    21300224: frog_wrap_3.png
+    21300226: frog_wrap_30.png
+    21300228: frog_wrap_31.png
+    21300230: frog_wrap_32.png
+    21300232: frog_wrap_33.png
+    21300234: frog_wrap_34.png
+    21300236: frog_wrap_35.png
+    21300238: frog_wrap_36.png
+    21300240: frog_wrap_37.png
+    21300242: frog_wrap_38.png
+    21300244: frog_wrap_39.png
+    21300246: frog_wrap_4.png
+    21300248: frog_wrap_40.png
+    21300250: frog_wrap_41.png
+    21300252: frog_wrap_42.png
+    21300254: frog_wrap_43.png
+    21300256: frog_wrap_44.png
+    21300258: frog_wrap_45.png
+    21300260: frog_wrap_46.png
+    21300262: frog_wrap_47.png
+    21300264: frog_wrap_48.png
+    21300266: frog_wrap_5.png
+    21300268: frog_wrap_6.png
+    21300270: frog_wrap_7.png
+    21300272: frog_wrap_8.png
+    21300274: frog_wrap_9.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frog_click_0.png
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_1.png
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_10.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_11.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_12.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_13.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_14.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_15.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_16.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_17.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_18.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_19.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_2.png
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_20.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_21.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_22.png
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_23.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_24.png
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_25.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_26.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_27.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_28.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_29.png
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_3.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_4.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_5.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_6.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_7.png
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_8.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_click_9.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_0.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 22.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_1.png
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 21.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_column_10.png
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 25.5, y: 17.5}
+        - {x: 23.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_column_11.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -15.5, y: -19.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 19.5}
+        - {x: 21.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_column_12.png
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -25.5, y: 13.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 25.5, y: -19.5}
+        - {x: 25.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_13.png
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -10.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 25.5, y: -10.5}
+        - {x: 25.5, y: 16.5}
+        - {x: 20.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_14.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 22.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_15.png
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 20.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_16.png
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -15.5, y: -21.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 19.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_17.png
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21.5}
+        - {x: -24.5, y: 14.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 17.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_18.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 21.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_19.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_2.png
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.5}
+        - {x: -25.5, y: 13.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 19.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_column_20.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_21.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_22.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_23.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_24.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 22.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_column_25.png
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -24.5, y: -11.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 15.5, y: -21.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_26.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -24.5, y: 14.5}
+        - {x: -24.5, y: -21.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_27.png
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_28.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 22.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_29.png
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 181
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 20}
+        - {x: -25, y: 20}
+        - {x: -25, y: -17}
+        - {x: -15, y: -20}
+        - {x: 22, y: -20}
+        - {x: 25, y: -11}
+        - {x: 25, y: 19}
+      tessellationDetail: -1
+    - name: frog_column_3.png
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.5}
+        - {x: -25.5, y: 13.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 25.5, y: -12.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 18.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_column_4.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_5.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_6.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_7.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_8.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_column_9.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_0.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 21.5}
+        - {x: -22.5, y: 21.5}
+        - {x: -25.5, y: 10.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -10.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 25.5, y: 18.5}
+      tessellationDetail: -1
+    - name: frog_line_1.png
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 25.5, y: 21.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -17.5}
+      tessellationDetail: -1
+    - name: frog_line_10.png
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -13.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 25.5, y: -19.5}
+        - {x: 25.5, y: 19.5}
+        - {x: 24.5, y: 22.5}
+        - {x: -19.5, y: 22.5}
+        - {x: -25.5, y: 12.5}
+      tessellationDetail: -1
+    - name: frog_line_11.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 21.5}
+        - {x: 16.5, y: 22.5}
+        - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 25.5, y: -12.5}
+        - {x: 25.5, y: 9.5}
+        - {x: 21.5, y: 16.5}
+      tessellationDetail: -1
+    - name: frog_line_12.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 21.5, y: 21.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -19.5}
+      tessellationDetail: -1
+    - name: frog_line_13.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: 20.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_14.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 21.5}
+        - {x: -22.5, y: 21.5}
+        - {x: -25.5, y: 10.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -10.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 25.5, y: 18.5}
+      tessellationDetail: -1
+    - name: frog_line_15.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_16.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 21.5}
+        - {x: -17.5, y: 21.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -12.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 23.5, y: 18.5}
+      tessellationDetail: -1
+    - name: frog_line_17.png
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -21.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_18.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 21.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -24.5, y: -13.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 21.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_19.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_2.png
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 10.5}
+        - {x: 21.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_20.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_21.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_22.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_23.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_24.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -24.5, y: 13.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 24.5, y: -14.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 23.5, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_line_25.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21.5}
+        - {x: -24.5, y: 11.5}
+        - {x: -24.5, y: -14.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 20.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_26.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21.5}
+        - {x: -24.5, y: 11.5}
+        - {x: -24.5, y: -16.5}
+        - {x: -13.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 23.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_27.png
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 135
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_line_28.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 49
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 21.5}
+        - {x: -22.5, y: 21.5}
+        - {x: -25.5, y: 10.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -10.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 25.5, y: 18.5}
+      tessellationDetail: -1
+    - name: frog_line_3.png
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -17.5}
+        - {x: -20.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 25.5, y: -19.5}
+        - {x: 25.5, y: 22.5}
+        - {x: -23.5, y: 22.5}
+        - {x: -25.5, y: 17.5}
+      tessellationDetail: -1
+    - name: frog_line_4.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_5.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_6.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_7.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_8.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_line_9.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.5}
+        - {x: -25.5, y: 15.5}
+        - {x: -25.5, y: -17.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 22.5, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_0.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 180
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20.5}
+        - {x: -24, y: 11.5}
+        - {x: -24, y: -17.5}
+        - {x: -15, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 24, y: -12.5}
+        - {x: 24, y: 10.5}
+        - {x: 18, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 20.5}
+        - {x: -25, y: 11.5}
+        - {x: -25, y: -16.5}
+        - {x: -14, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 12.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_10.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_11.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_12.png
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_13.png
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_14.png
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_15.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_16.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_17.png
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -13.5}
+        - {x: -22, y: -22.5}
+        - {x: 26, y: -22.5}
+        - {x: 26, y: 14.5}
+        - {x: 23, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_18.png
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_19.png
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_2.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 137
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20.5}
+        - {x: -25, y: 14.5}
+        - {x: -25, y: -20.5}
+        - {x: 23, y: -20.5}
+        - {x: 25, y: -10.5}
+        - {x: 25, y: 9.5}
+        - {x: 18, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_20.png
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_21.png
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_22.png
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_23.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_24.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_25.png
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -13.5}
+        - {x: -22, y: -22.5}
+        - {x: 26, y: -22.5}
+        - {x: 26, y: 14.5}
+        - {x: 23, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_26.png
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_27.png
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_28.png
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_29.png
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_3.png
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -13.5}
+        - {x: -20, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_30.png
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_31.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_32.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_33.png
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -13.5}
+        - {x: -22, y: -22.5}
+        - {x: 26, y: -22.5}
+        - {x: 26, y: 14.5}
+        - {x: 23, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_34.png
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 22.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -14.5}
+        - {x: -22, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_35.png
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_36.png
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -17, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 16.5}
+        - {x: 24, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_37.png
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_38.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 26, y: -17.5}
+        - {x: 26, y: 20.5}
+        - {x: 22, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_39.png
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -13.5}
+        - {x: -22, y: -22.5}
+        - {x: 26, y: -22.5}
+        - {x: 26, y: 14.5}
+        - {x: 23, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_4.png
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 20.5}
+        - {x: -25, y: -11.5}
+        - {x: -21, y: -21.5}
+        - {x: 14, y: -21.5}
+        - {x: 25, y: -10.5}
+        - {x: 25, y: 20.5}
+        - {x: 21, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_40.png
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22.5}
+        - {x: -26, y: 20.5}
+        - {x: -26, y: -13.5}
+        - {x: -21, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 18.5}
+        - {x: 25, y: 22.5}
+      tessellationDetail: -1
+    - name: frog_wrap_41.png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 49
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 21.5}
+        - {x: -26, y: -13.5}
+        - {x: -20, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 26, y: -16.5}
+        - {x: 26, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_42.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 21.5}
+        - {x: -25, y: 21.5}
+        - {x: -25, y: -10.5}
+        - {x: -17, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 15, y: -19.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 18.5}
+      tessellationDetail: -1
+    - name: frog_wrap_43.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -13.5}
+        - {x: -21, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 20.5}
+        - {x: 23, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_44.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 21.5}
+        - {x: -24, y: 21.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: -13.5}
+        - {x: -17, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 17.5}
+      tessellationDetail: -1
+    - name: frog_wrap_45.png
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -21, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 18.5}
+        - {x: 22, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_46.png
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -20.5}
+        - {x: -18, y: -21.5}
+        - {x: 18, y: -21.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 14.5}
+        - {x: 23, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_47.png
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 180
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 20.5}
+        - {x: -25, y: -17.5}
+        - {x: -16, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 25, y: -13.5}
+        - {x: 25, y: 12.5}
+        - {x: 22, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_48.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 180
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20.5}
+        - {x: -24, y: 11.5}
+        - {x: -24, y: -17.5}
+        - {x: -15, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 24, y: -12.5}
+        - {x: 24, y: 10.5}
+        - {x: 18, y: 20.5}
+      tessellationDetail: -1
+    - name: frog_wrap_5.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: -12.5}
+        - {x: -19, y: -21.5}
+        - {x: 25, y: -21.5}
+        - {x: 25, y: 14.5}
+        - {x: 17, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_6.png
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 21.5}
+        - {x: -20, y: 21.5}
+        - {x: -25, y: 13.5}
+        - {x: -25, y: -19.5}
+        - {x: -20, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 17.5}
+      tessellationDetail: -1
+    - name: frog_wrap_7.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21.5}
+        - {x: -25, y: 14.5}
+        - {x: -25, y: -13.5}
+        - {x: -19, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 14.5}
+        - {x: 19, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_8.png
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21.5}
+        - {x: -25, y: 14.5}
+        - {x: -25, y: -18.5}
+        - {x: -15, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 12.5}
+        - {x: 18, y: 21.5}
+      tessellationDetail: -1
+    - name: frog_wrap_9.png
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 92
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -16.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 21.5}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
